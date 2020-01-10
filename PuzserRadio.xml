@@ -1,0 +1,617 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+    <channel>
+        <title>Puzsér Podcast | Rádiós beszélgetések</title>
+        <link>https://soundcloud.com/puzserrobert-862593617</link>
+        <language>hu</language>
+        <image>
+            <url>https://i.ibb.co/6JjYnSv/3000-3000-8.jpg</url>
+            <title>Puzsér Róbert</title>
+            <link>https://soundcloud.com/puzserrobert-862593617</link>
+        </image>
+        <itunes:owner>
+            <itunes:name>Puzsér Róbert</itunes:name>
+            <itunes:email>rextimallen@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Society &amp; Culture"></itunes:category>
+        <itunes:keywords>Puzsér Róbert</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://i.ibb.co/6JjYnSv/3000-3000-8.jpg" />
+        <pubDate>Fri, 18 May 2018 00:00:00 +0100</pubDate>
+        <itunes:author>Puzsér Róbert</itunes:author>
+        <description>Puzsér Róbert rádiós beszélgetései</description>
+        <itunes:summary>Puzsér Róbert</itunes:summary>
+        <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+
+<!-- 
+        <item>
+            <title>testSCMP3</title>
+            <description>Puzsér Róbert</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="http://feeds.soundcloud.com/stream/697659505-puzserrobert-862593617-apu-ertekeli-az-onkormanyzati-valasztas-eredmenyet.mp3" type="audio/mpeg" length="1" />
+            <guid>http://feeds.soundcloud.com/stream/697659505-puzserrobert-862593617-apu-ertekeli-az-onkormanyzati-valasztas-eredmenyet.mp3</guid>
+            <pubDate>Sun, 27 Oct 2019 19:36:46 +0200</pubDate>
+        </item>
+        
+
+<item><title>testM4A</title><description>Puzsér Róbert</description><itunes:summary>Puzsér Róbert</itunes:summary><itunes:subtitle>Puzsér Róbert</itunes:subtitle><enclosure url="https://2uomw09g7yhwzrkf5plxla-on.drv.tw/sample%20webpage/Puzs%C3%A9r%20-%20monol%C3%B3g%20a%20hal%C3%A1lr%C3%B3l.m4a" type="audio/mpeg" length="1" />
+  <guid>https://2uomw09g7yhwzrkf5plxla-on.drv.tw/sample%20webpage/Puzs%C3%A9r%20-%20monol%C3%B3g%20a%20hal%C3%A1lr%C3%B3l.m4a</guid> <pubDate>Sun, 27 Oct 2019 19:36:46 +0200</pubDate></item>
+
+
+
+<item><title>Értékelő kampánykontent</title><description>Puzsér Róbert, Ellenpont, Zaránd Péter, Bodrog Zoltán</description><itunes:summary>Puzsér Róbert ,Ellenpont, Zaránd Péter, Bodrog Zoltán</itunes:summary><itunes:subtitle>Puzsér Róbert ,Ellenpont, Zaránd Péter, Bodrog Zoltán</itunes:subtitle><enclosure url="https://archive.org/download/PuzsrRdi/Értékelő%20kampánykontent.mp3" type="audio/mpeg" length="1" /><guid>https://archive.org/download/PuzsrRdi/Értékelő%20kampánykontent.mp3</guid><pubDate>Sat, 19 Oct 2019 21:44:30 +0200</pubDate></item>
+
+<item><title>Puzsér Róbert az InfoRádióban | 2019.10.08.</title><description>Puzsér Róbert</description><itunes:summary>Puzsér Róbert</itunes:summary><itunes:subtitle>Puzsér Róbert</itunes:subtitle><enclosure url="https://archive.org/download/PuzsrRdi/1570565279035.mp3" type="audio/mpeg" length="1" /><guid>https://archive.org/download/PuzsrRdi/1570565279035.mp3</guid><pubDate>Tue, 08 Oct 2019 20:07:59 +0200</pubDate></item>
+
+<item><title>Puzsér Róbert a Kossuth Rádióban | 2019.09.20.</title><description></description><itunes:summary>Puzsér Róbert</itunes:summary><itunes:subtitle></itunes:subtitle><enclosure url="https://archive.org/download/PuzsrRdi/1568976862808.mp3" type="audio/mpeg" length="1" /><guid>https://archive.org/download/PuzsrRdi/1568976862808.mp3</guid><pubDate>Fri, 20 Sep 2019 10:54:22 +0200</pubDate></item>
+
+<item><title>Kampánykontent az ajánlásgyűjtésről és Berki Krisztián indulásáról</title><description></description><itunes:summary>Puzsér Róbert</itunes:summary><itunes:subtitle></itunes:subtitle><enclosure url="https://archive.org/download/PuzsrRdi/1568329766577.mp3" type="audio/mpeg" length="1" /><guid>https://archive.org/download/PuzsrRdi/1568329766577.mp3</guid><pubDate>Thu, 12 Sep 2019 23:09:26 +0200</pubDate></item>
+
+<item><title>Puzsér Róbert a Kossuth Rádióban | 2019.09.06.</title><description></description><itunes:summary>Puzsér Róbert</itunes:summary><itunes:subtitle></itunes:subtitle><enclosure url="https://archive.org/download/PuzsrRdi/1567848725908.mp3" type="audio/mpeg" length="1" /><guid>https://archive.org/download/PuzsrRdi/1567848725908.mp3</guid><pubDate>Sat, 07 Sep 2019 09:32:05 +0200</pubDate></item>
+
+<item><title>Kampánykontent a bulinegyedről</title><description></description><itunes:summary>Puzsér Róbert</itunes:summary><itunes:subtitle></itunes:subtitle><enclosure url="https://archive.org/download/PuzsrRdi/1566675692481.mp3" type="audio/mpeg" length="1" /><guid>https://archive.org/download/PuzsrRdi/1566675692481.mp3</guid><pubDate>Sat, 24 Aug 2019 19:41:32 +0200</pubDate></item>  
+
+
+        <item>
+            <title>Beszélgetés Lányi Andrással a nemzeti radikalizmusról</title>
+            <description></description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle></itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/1562022759430.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/1562022759430.mp3</guid>
+            <pubDate>Mon, 01 Jul 2019 23:12:39 +0200</pubDate>
+        </item>
+        <item>
+            <title>Beszélgetés Lányi Andrással az ökológiai politikáról</title>
+            <description></description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle></itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/1562023350578.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/1562023350578.mp3</guid>
+            <pubDate>Mon, 01 Jul 2019 23:22:30 +0200</pubDate>
+        </item>
+        <item>
+            <title>Puzsér VS Márki-Zay vitaest | 2019.05.28.</title>
+            <description>Puzsér VS Márki-Zay vitaest | 2019.05.28.</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér VS Márki-Zay vitaest | 2019.05.28.</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/1559080066258.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/1559080066258.mp3</guid>
+            <pubDate>Tue, 28 May 2019 21:47:46 +0200</pubDate>
+        </item>
+        <item>
+            <title>Puzsér fotósoknak ad elő LSD-ről és skizofréniáról</title>
+            <description></description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle></itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/61.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/61.mp3</guid>
+            <pubDate>Tue, 21 May 2019 14:10:03 +0200</pubDate>
+        </item>
+        <item>
+            <title>Puzsér fotósoknak ad elő valóságról és igazságról</title>
+            <description></description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle></itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/60.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/60.mp3</guid>
+            <pubDate>Tue, 21 May 2019 14:10:02 +0200</pubDate>
+        </item>
+        <item>
+            <title>Kampánykontent a parkolási maffiáról, a Momentumról és az előválasztásról</title>
+            <description>Puzsér Róbert, Ellenpont András, Sipos Zoltán, Zaránd Péter</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert, Ellenpont András, Sipos Zoltán, Zaránd Péter</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/59.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/59.mp3</guid>
+            <pubDate>Thu, 04 Apr 2019 23:02:12 +0200</pubDate>
+        </item>
+        <item>
+            <title>Kampánykontent a Brexit című filmről</title>
+            <description>Puzsér Róbert, Ellenpont András, Sipos Zoltán, Zaránd Péter </description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert, Ellenpont András, Sipos Zoltán, Zaránd Péter </itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/58.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/58.mp3</guid>
+            <pubDate>Thu, 04 Apr 2019 22:19:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>Puzsér Róbert Az InfoRádió Aréna Című Műsorában 2019 03 25</title>
+            <description>Puzsér Róbert Az InfoRádió Aréna Című Műsorában 2019 03 25</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert Az InfoRádió Aréna Című Műsorában</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/57.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/57.mp3</guid>
+            <pubDate>Mon, 25 Mar 2019 18:50:10 +0200</pubDate>
+        </item>
+        <item>
+            <title>Kampánykontent A Momentumról És Karácsony Gergelyről</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/56.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/56.mp3</guid>
+            <pubDate>Mon, 25 Mar 2019 10:12:58 -0400</pubDate>
+        </item>
+        <item>
+            <title>Kampánykontent A Bob Roberts Című Filmről</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/55.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/55.mp3</guid>
+            <pubDate>Mon, 25 Mar 2019 10:12:57 -0400</pubDate>
+        </item>
+        <item>
+            <title>Kampánykontent a centrumról és az előválasztás kilátásairól</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/54.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/54.mp3</guid>
+            <pubDate>Tue, 19 Mar 2019 00:00:01 +0100</pubDate>
+        </item>
+        <item>
+            <title>Kampánykontent az Alelnök című filmről</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/53.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/53.mp3</guid>
+            <pubDate>Tue, 19 Mar 2019 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér és barátai a Trónok harca hetedik évadáról</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/50.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/50.mp3</guid>
+            <pubDate>Tue, 9 Feb 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsérról mégis a 7térítőben</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/49.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/49.mp3</guid>
+            <pubDate>Mon, 8 Feb 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>A Tilos Rádió 7térítő című műsorában tilos kiejteni Puzsér nevét</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/48.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/48.mp3</guid>
+            <pubDate>Sun, 7 Feb 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér Róbert a Kossuth Rádióban</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/47.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/47.mp3</guid>
+            <pubDate>Sat, 6 Feb 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér Cristiano Ronaldo és a Juventus közös jövőjéről</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/46.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/46.mp3</guid>
+            <pubDate>Fri, 5 Feb 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér és Vágó Balázsék műsorában - 2018.05.09.</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/45.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/45.mp3</guid>
+            <pubDate>Thu, 4 Feb 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Beszélgetés Puzsér Róberttel a Rádió Oranzson - 2018.02.28.</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/44.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/44.mp3</guid>
+            <pubDate>Wed, 3 Feb 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér - A Valentin-nap a kizsarolt vallomások ünnepe</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/43.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/43.mp3</guid>
+            <pubDate>Tue, 2 Feb 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Perjés Zoltán beszélget Puzsér Róberttel - 2018.01.03.</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/42.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/42.mp3</guid>
+            <pubDate>Mon, 1 Feb 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>A gyűrűk uráról röviden</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/41.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/41.mp3</guid>
+            <pubDate>Sun, 31 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Művészember - Puzsér Róbert - 2017.07.18 .</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/40.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/40.mp3</guid>
+            <pubDate>Sat, 30 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Beszélgetés Puzsér Róberttel az oktatás helyzetéről - 2017.06.09.</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/39.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/39.mp3</guid>
+            <pubDate>Fri, 29 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér Róbert a Morning Showban - 2017.05.09.</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/38.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/38.mp3</guid>
+            <pubDate>Thu, 28 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér Róbert a Klubrádióban az önkényuralmi jelképekről beszél</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/37.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/37.mp3</guid>
+            <pubDate>Wed, 27 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Nádas György beszélget Puzsér Róberttel</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/36.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/36.mp3</guid>
+            <pubDate>Tue, 26 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér - Csak ellenzéki összefogással lehet Orbánt leváltani</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/35.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/35.mp3</guid>
+            <pubDate>Mon, 25 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Beszélgetés Puzsér Róberttel - 2016.11.18.</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/34.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/34.mp3</guid>
+            <pubDate>Sun, 24 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Gyerekkorunk traumatikus mesesorozatai - 2016.11.18.</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/33.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/33.mp3</guid>
+            <pubDate>Sat, 23 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Mezey György szerint Puzsérnak fogalma sincs a futballról</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/32.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/32.mp3</guid>
+            <pubDate>Fri, 22 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér - Griezmann a világ legjobb játékosa - 2016.10.06.</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/31.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/31.mp3</guid>
+            <pubDate>Thu, 21 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér &amp; Gödri - Tíz ok, amiért utáljuk Madonnát</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/30.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/30.mp3</guid>
+            <pubDate>Wed, 20 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Beszélgetés a 2016-os foci EB-ről, bulvárról, rendszerkritikáról</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/29.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/29.mp3</guid>
+            <pubDate>Tue, 19 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Beszélgetés Puzsér Róberttel kritikáról, stand-upról, filmekről...</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/28.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/28.mp3</guid>
+            <pubDate>Mon, 18 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Választás 2010, avagy a posztpolitikus kor kezdete</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/27.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/27.mp3</guid>
+            <pubDate>Sun, 17 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér a Gazdasági Rádióban</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/26.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/26.mp3</guid>
+            <pubDate>Sat, 16 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér és a hiphop</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/25.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/25.mp3</guid>
+            <pubDate>Fri, 15 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér a reklámról</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/24.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/24.mp3</guid>
+            <pubDate>Thu, 14 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér a magyar felsőoktatásról</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/23.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/23.mp3</guid>
+            <pubDate>Wed, 13 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér a terhes szexről</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/22.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/22.mp3</guid>
+            <pubDate>Tue, 12 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér az iszlám világról</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/21.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/21.mp3</guid>
+            <pubDate>Mon, 11 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Összeesküvés-elméletek 9-11-ről (Puzsér,Magyar,András)</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/20.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/20.mp3</guid>
+            <pubDate>Sun, 10 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér a fogyasztói társadalomról</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/19.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/19.mp3</guid>
+            <pubDate>Sat, 9 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér a sorozatokról</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/18.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/18.mp3</guid>
+            <pubDate>Fri, 8 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér tanácsai a jövő médiamunkásainak</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/17.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/17.mp3</guid>
+            <pubDate>Thu, 7 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Szélsőközép - Epilógus (Puzsér,KardosG,Gombos)</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/16.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/16.mp3</guid>
+            <pubDate>Wed, 6 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér a drogfogyasztásról</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/15.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/15.mp3</guid>
+            <pubDate>Tue, 5 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér - A magyarok keresztje</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/14.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/14.mp3</guid>
+            <pubDate>Mon, 4 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér a magyar futballról</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/13.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/13.mp3</guid>
+            <pubDate>Sun, 3 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér a médiával viccelődött</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/12.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/12.mp3</guid>
+            <pubDate>Sat, 2 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Apu miért iszik</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/11.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/11.mp3</guid>
+            <pubDate>Fri, 1 Jan 2016 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér - Trónok Harca VS Gyűrűk Ura</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/10.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/10.mp3</guid>
+            <pubDate>Thu, 31 Dec 2015 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Görögbe fogadva - Pokolba taszítva - Becstelen Brigantyk</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/09.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/09.mp3</guid>
+            <pubDate>Wed, 30 Dec 2015 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Éjszaka a múzeumban - Citromfa - A pankrátor</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/08.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/08.mp3</guid>
+            <pubDate>Tue, 29 Dec 2015 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér Kínáról és a kínaiakról</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/07.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/07.mp3</guid>
+            <pubDate>Mon, 28 Dec 2015 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér és FAM 'A zsidók szégyene' című drámájukról beszélget</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/06.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/06.mp3</guid>
+            <pubDate>Sun, 27 Dec 2015 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér Róbert az Oscar-díjat pocskondiázza</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/05.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/05.mp3</guid>
+            <pubDate>Sat, 26 Dec 2015 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér Sebestyén Balázs nyilatkozatára reagál</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/04.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/04.mp3</guid>
+            <pubDate>Fri, 25 Dec 2015 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér a nőkről és a párkapcsolatokról</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/03.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/03.mp3</guid>
+            <pubDate>Thu, 24 Dec 2015 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Para-Kovács és Puzsér beszélgetése a Klubrádióban</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/02.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/02.mp3</guid>
+            <pubDate>Wed, 23 Dec 2015 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Puzsér és Dancsó a Muzsikus Rádióban - kritika műsorokról</title>
+            <description>Puzsér Róbert rádiós beszélgetései</description>
+            <itunes:summary>Puzsér Róbert</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+            <enclosure url="https://archive.org/download/PuzsrRdi/01.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/PuzsrRdi/01.mp3</guid>
+            <pubDate>Tue, 22 Dec 2015 00:00:00 +0100</pubDate>
+        </item>
+
+-->
+    </channel>
+</rss>
