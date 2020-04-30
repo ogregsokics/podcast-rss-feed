@@ -2,12 +2,12 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
     <channel>
         <title>testtesttest2575214</title>
-        <link>https://soundcloud.com/</link>
+        <link>https://soundcloud.com</link>
         <language>hu</language>
         <image>
             <url>https://i.ibb.co/9tLTMSK/szarabb-3000-3000.jpg</url>
             <title>test</title>
-            <link>https://soundcloud.com/</link>
+            <link>https://soundcloud.com</link>
         </image>
         <itunes:owner>
             <itunes:name>test</itunes:name>
@@ -31,13 +31,13 @@
 
 
 
-          <item>
-            <title>002-Baha Men - Who Let The Dogs Out (Original version) _ Full HD _ 1080p</title>
+      <item>
+            <title>003-SZNOBJEKTÍV Greatest Shits 100. Baha Men - Who Let The Dogs Out</title>
             <description>test</description>
             <itunes:summary>test</itunes:summary>
             <itunes:subtitle>test</itunes:subtitle>
-            <enclosure url="https://archive.org/download/sznobjektivgreatestshits-a100legszarabbslager2014/002-Baha%20Men%20-%20Who%20Let%20The%20Dogs%20Out%20(Original%20version)%20_%20Full%20HD%20_%201080p.m4a" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/sznobjektivgreatestshits-a100legszarabbslager2014/002-Baha%20Men%20-%20Who%20Let%20The%20Dogs%20Out%20(Original%20version)%20_%20Full%20HD%20_%201080p.m4a</guid>
+            <enclosure url="https://archive.org/download/sznobjektivgreatestshits-a100legszarabbslager2014/003-SZNOBJEKTÍV%20Greatest%20Shits%20100.%20Baha%20Men%20-%20Who%20Let%20The%20Dogs%20Out.m4a" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/sznobjektivgreatestshits-a100legszarabbslager2014/003-SZNOBJEKTÍV%20Greatest%20Shits%20100.%20Baha%20Men%20-%20Who%20Let%20The%20Dogs%20Out.m4a</guid>
             <pubDate>Sat, 04 Apr 2020 17:32:15 +0200</pubDate>
         </item>
 
