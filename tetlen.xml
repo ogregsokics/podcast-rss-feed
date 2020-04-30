@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
     <channel>
-        <title>AJetlen</title>
+        <title>A Jó, a Rossz és a Nézhetetlen</title>
         <link>https://soundcloud.com</link>
         <language>hu</language>
         <image>
@@ -32,7 +32,7 @@
 
 
       <item>
-            <title>003-SZNOBJEKTÍV Greatest Shits 100. Baha Men - Who Let The Dogs Out</title>
+            <title>Baha Men - Who Let The Dogs Out</title>
             <description>test</description>
             <itunes:summary>test</itunes:summary>
             <itunes:subtitle>test</itunes:subtitle>
