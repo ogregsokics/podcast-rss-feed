@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+    <channel>
+        <title>AJetlen</title>
+        <link>https://soundcloud.com</link>
+        <language>hu</language>
+        <image>
+            <url>https://i.ibb.co/9tLTMSK/szarabb-3000-3000.jpg</url>
+            <title>test</title>
+            <link>https://soundcloud.com</link>
+        </image>
+        <itunes:owner>
+            <itunes:name>test</itunes:name>
+            <itunes:email>rextimallen@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Music"></itunes:category>
+        <itunes:keywords>test</itunes:keywords>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:image href="https://i.ibb.co/9tLTMSK/szarabb-3000-3000.jpg" />
+        <pubDate>Thu, 04 Apr 2019 08:49:04 +0200</pubDate>
+        <itunes:author>test</itunes:author>
+        <description>
+            A rendezvény 
+           </description>
+        <itunes:summary>
+            A rendezvény 
+        </itunes:summary>
+        <itunes:subtitle>test</itunes:subtitle>
+      
+
+
+
+
+      <item>
+            <title>003-SZNOBJEKTÍV Greatest Shits 100. Baha Men - Who Let The Dogs Out</title>
+            <description>test</description>
+            <itunes:summary>test</itunes:summary>
+            <itunes:subtitle>test</itunes:subtitle>
+            <enclosure url="https://archive.org/download/sznobjektivgreatestshits-a100legszarabbslager2014/003-SZNOBJEKTÍV%20Greatest%20Shits%20100.%20Baha%20Men%20-%20Who%20Let%20The%20Dogs%20Out.m4a" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/sznobjektivgreatestshits-a100legszarabbslager2014/003-SZNOBJEKTÍV%20Greatest%20Shits%20100.%20Baha%20Men%20-%20Who%20Let%20The%20Dogs%20Out.m4a</guid>
+            <pubDate>Sat, 04 Apr 2020 17:32:15 +0200</pubDate>
+        </item>
+
+                    </channel>
+</rss>
