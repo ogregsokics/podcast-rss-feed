@@ -28,7 +28,9 @@
            
         </itunes:summary>
         <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
-        
+	    
+	    
+         <!--
         <item>
 			<title>#49 The Police</title>
 			<description>Puzsér Róbert, Magyar Dávid</description>
@@ -38,8 +40,8 @@
 			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon49.mp3</guid>
 			<pubDate>Thu, 04 Apr 2019 08:41:04 +0200</pubDate>
 		</item>
-        
-        <!--
+        -->
+       
 
 <item>
     <title>SZNOBJEKTÍV Greatest Shits 100-81-ig Intro</title>
@@ -988,7 +990,7 @@
 </item>
 
 
--->
+
 
             </channel>
 </rss>
