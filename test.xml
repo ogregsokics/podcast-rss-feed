@@ -20,15 +20,13 @@
         <pubDate>Thu, 04 Apr 2019 08:49:04 +0200</pubDate>
         <itunes:author>test</itunes:author>
         <description>
-            A rendezvény 
-           </description>
+            A rendezvény
+        </description>
         <itunes:summary>
-            A rendezvény 
+            A rendezvény
         </itunes:summary>
         <itunes:subtitle>test</itunes:subtitle>
-      
-
-<!--
+        <!--
  <item>
             <title> Baha Men - Who Let The Dogs Out</title>
             <description>test</description>
@@ -39,6 +37,5 @@
             <pubDate>Sat, 04 Apr 2020 17:32:15 +0200</pubDate>
         </item>
 -->
-
-                    </channel>
+    </channel>
 </rss>
