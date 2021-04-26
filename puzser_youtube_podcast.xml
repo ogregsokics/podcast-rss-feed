@@ -1639,6 +1639,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast/%C3%89hes%20makkal%20diszn%C3%B3t%20%C3%A1lmodok%20S01E04.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast/%C3%89hes%20makkal%20diszn%C3%B3t%20%C3%A1lmodok%20S01E04.mp3</guid>
             <pubDate>Thu, 28 May 2020 21:10:50 +0200</pubDate>
+            <itunes:image href="https://i.ibb.co/WBmfyzP/emda-1.jpg" />
         </item>
         <item>
             <title>Puzsér a Pesti Hírlap live streamjében</title>
@@ -1675,15 +1676,17 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast/Éhes%20makkal%20disznót%20álmodok%20S01E03.m4a" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast/Éhes%20makkal%20disznót%20álmodok%20S01E03.m4a</guid>
             <pubDate>Tue, 19 May 2020 00:04:27 +0200</pubDate>
+            <itunes:image href="https://i.ibb.co/WBmfyzP/emda-1.jpg" />
         </item>
         <item>
-            <title>Éhes makkal disznót álmodok S01.E02</title>
+            <title>Éhes makkal disznót álmodok S01E02</title>
             <description>Puzsér Róbert</description>
             <itunes:summary>Puzsér Róbert</itunes:summary>
             <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast/Éhes%20makkal%20disznót%20álmodok%20S01.E02.m4a" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast/Éhes%20makkal%20disznót%20álmodok%20S01.E02.m4a</guid>
             <pubDate>Mon, 11 May 2020 13:49:00 +0200</pubDate>
+            <itunes:image href="https://i.ibb.co/WBmfyzP/emda-1.jpg" />
         </item>
         <item>
             <title>KaranTéma a tehetségről</title>
@@ -1695,13 +1698,14 @@
             <pubDate>Sat, 09 May 2020 15:00:17 +0200</pubDate>
         </item>
         <item>
-            <title>Éhes makkal disznót álmodok S01.E01</title>
+            <title>Éhes makkal disznót álmodok S01E01</title>
             <description>Puzsér Róbert</description>
             <itunes:summary>Puzsér Róbert</itunes:summary>
             <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast/Éhes%20makkal%20disznót%20álmodok%20S01.E01.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast/Éhes%20makkal%20disznót%20álmodok%20S01.E01.mp3</guid>
             <pubDate>Tue, 05 May 2020 11:41:33 +0200</pubDate>
+            <itunes:image href="https://i.ibb.co/WBmfyzP/emda-1.jpg" />
         </item>
         <item>
             <title>Elit és tömeg, felelősségvállalás, aktuális vírushelyzet</title>
