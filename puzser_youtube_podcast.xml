@@ -24,11 +24,37 @@
         <itunes:summary>Puzsér Róbert</itunes:summary>
         <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
 
-        <item><title>A tíz legpusztítóbb magyar mítosz - Sznobjektív [#77]</title><description>Puzsér Róbert, Vona Gábor</description><itunes:summary>Puzsér Róbert, Vona Gábor</itunes:summary><itunes:subtitle>Puzsér Róbert, Vona Gábor</itunes:subtitle><enclosure url="https://archive.org/download/puzser_youtube_podcast_2/A%20t%C3%ADz%20legpuszt%C3%ADt%C3%B3bb%20magyar%20m%C3%ADtosz%20-%20Sznobjekt%C3%ADv%20%5B%2377%5D.mp3" type="audio/mpeg" length="1" /><guid>https://archive.org/download/puzser_youtube_podcast_2/A%20t%C3%ADz%20legpuszt%C3%ADt%C3%B3bb%20magyar%20m%C3%ADtosz%20-%20Sznobjekt%C3%ADv%20%5B%2377%5D.mp3</guid><pubDate>Mon, 24 May 2021 22:14:54+0200</pubDate><itunes:image href="https://i.ibb.co/0t4DVpG/sznob-1.jpg"/></item>
-
-  <item><title>Friderikusz vs. Geszti podcast; Junkies: A szerelmedtől lettem ilyen [ÖM #372]</title><description>Puzsér Róbert, Horváth Oszkár, Szabó Eszter</description><itunes:summary>Puzsér Róbert, Horváth Oszkár, Szabó Eszter</itunes:summary><itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Szabó Eszter</itunes:subtitle><enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Friderikusz%20vs.%20Geszti%20podcast%3B%20Junkies%3A%20A%20szerelmedt%C5%91l%20lettem%20ilyen%20%5B%C3%96M%20%23372%5D.mp3" type="audio/mpeg" length="1" /><guid>https://archive.org/download/puzser_youtube_podcast_2/Friderikusz%20vs.%20Geszti%20podcast%3B%20Junkies%3A%20A%20szerelmedt%C5%91l%20lettem%20ilyen%20%5B%C3%96M%20%23372%5D.mp3</guid><pubDate>Mon, 24 May 2021 21:14:54 +0200</pubDate><itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg"/></item>
-
-        <item><title>Tanítóm, a polip [ÖM #371]</title><description>Puzsér Róbert, Horváth Oszkár, Csonka Berta</description><itunes:summary>Puzsér Róbert, Horváth Oszkár, Csonka Berta</itunes:summary><itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Csonka Berta</itunes:subtitle><enclosure url="https://archive.org/download/puzser_youtube_podcast/Tan%C3%ADt%C3%B3m%2C%20a%20polip%20%5B%C3%96M%20%23371%5D.mp3" type="audio/mpeg" length="1" /><guid>https://archive.org/download/puzser_youtube_podcast/Tan%C3%ADt%C3%B3m%2C%20a%20polip%20%5B%C3%96M%20%23371%5D.mp3</guid><pubDate>Thu, 20 May 2021 20:18:49 +0200</pubDate><itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg"/></item>
+        
+        <item>
+            <title>A tíz legpusztítóbb magyar mítosz - Sznobjektív [#77]</title>
+            <description>Puzsér Róbert, Vona Gábor</description>
+            <itunes:summary>Puzsér Róbert, Vona Gábor</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert, Vona Gábor</itunes:subtitle>
+            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/A%20t%C3%ADz%20legpuszt%C3%ADt%C3%B3bb%20magyar%20m%C3%ADtosz%20-%20Sznobjekt%C3%ADv%20%5B%2377%5D.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/puzser_youtube_podcast_2/A%20t%C3%ADz%20legpuszt%C3%ADt%C3%B3bb%20magyar%20m%C3%ADtosz%20-%20Sznobjekt%C3%ADv%20%5B%2377%5D.mp3</guid>
+            <pubDate>Tue, 25 May 2021 10:50:33 +0200</pubDate>
+            <itunes:image href="https://i.ibb.co/0t4DVpG/sznob-1.jpg" />
+        </item>
+        <item>
+            <title>Friderikusz vs. Geszti podcast; Junkies: A szerelmedtől lettem ilyen [ÖM #372]</title>
+            <description>Puzsér Róbert, Horváth Oszkár, Szabó Eszter</description>
+            <itunes:summary>Puzsér Róbert, Horváth Oszkár, Szabó Eszter</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Szabó Eszter</itunes:subtitle>
+            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Friderikusz%20vs.%20Geszti%20podcast%3B%20Junkies%3A%20A%20szerelmedt%C5%91l%20lettem%20ilyen%20%5B%C3%96M%20%23372%5D.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/puzser_youtube_podcast_2/Friderikusz%20vs.%20Geszti%20podcast%3B%20Junkies%3A%20A%20szerelmedt%C5%91l%20lettem%20ilyen%20%5B%C3%96M%20%23372%5D.mp3</guid>
+            <pubDate>Mon, 24 May 2021 21:14:54 +0200</pubDate>
+            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+        </item>
+        <item>
+            <title>Tanítóm, a polip [ÖM #371]</title>
+            <description>Puzsér Róbert, Horváth Oszkár, Csonka Berta</description>
+            <itunes:summary>Puzsér Róbert, Horváth Oszkár, Csonka Berta</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Csonka Berta</itunes:subtitle>
+            <enclosure url="https://archive.org/download/puzser_youtube_podcast/Tan%C3%ADt%C3%B3m%2C%20a%20polip%20%5B%C3%96M%20%23371%5D.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/puzser_youtube_podcast/Tan%C3%ADt%C3%B3m%2C%20a%20polip%20%5B%C3%96M%20%23371%5D.mp3</guid>
+            <pubDate>Thu, 20 May 2021 20:18:49 +0200</pubDate>
+            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+        </item>
         <item>
             <title>A férfihoz jutás méltósága TOP20 [ÖM #370]</title>
             <description>Puzsér Róbert, Horváth Oszkár, Csizi Ágnes</description>
