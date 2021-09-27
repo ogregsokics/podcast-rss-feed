@@ -1,27 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
-	<channel>
-		<title>Puzsér Podcast | A 100 Legjobb Film (A hét mesterlövésze)</title>
-		<link>https://soundcloud.com/puzserrobert-862593617</link>
-		<language>hu</language>
-		<image>
-			<url>https://i.ibb.co/tBpxgfM/3000-3000-5.jpg</url>
-			<title>Puzsér Róbert</title>
-			<link>https://soundcloud.com/puzserrobert-862593617</link>
-		</image>
-		<itunes:owner>
-			<itunes:name>Puzsér Róbert</itunes:name>
-			<itunes:email>rextimallen@gmail.com</itunes:email>
-		</itunes:owner>
-		<itunes:category text="TV &amp; Film" />
-		<itunes:keywords>Puzsér Róbert</itunes:keywords>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:image href="https://i.ibb.co/tBpxgfM/3000-3000-5.jpg" />
-		<pubDate>Fri, 18 May 2018 00:00:00 +0100</pubDate>
-		<itunes:author>Puzsér Róbert</itunes:author>
-		<description>Puzsér Róbert: A 100 legjobb film valaha</description>
-		<itunes:summary>Puzsér Róbert</itunes:summary>
-		<itunes:subtitle>Puzsér</itunes:subtitle>
+    <channel>
+        <title>rextimallen</title>
+        <link>https://soundcloud.com/</link>
+        <language>hu</language>
+        <image>
+            <url>https://i.ibb.co/tBpxgfM/3000-3000-5.jpg</url>
+            <title>rextimallen</title>
+            <link>https://soundcloud.com/puzserrobert-862593617</link>
+        </image>
+        <itunes:owner>
+            <itunes:name>rextimallen</itunes:name>
+            <itunes:email>rextimallen@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:category text="TV &amp; Film" />
+        <itunes:keywords>rextimallen</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://i.ibb.co/tBpxgfM/3000-3000-5.jpg" />
+        <pubDate>Fri, 18 May 2018 00:00:00 +0100</pubDate>
+        <itunes:author>rextimallen</itunes:author>
+        <description>rextimallen</description>
+        <itunes:summary>rextimallen</itunes:summary>
+        <itunes:subtitle>rextimallen</itunes:subtitle>
+        <item>
+            <title>karotta</title>
+            <description>rextimallen</description>
+            <itunes:summary>rextimallen</itunes:summary>
+            <itunes:subtitle>rextimallen</itunes:subtitle>
+            <enclosure url="https://tj3hx8tlwzbfakvcigtytg-on.drv.tw/images_desc/karotta.mp3" type="audio/mpeg" length="1" />
+            <guid>https://tj3hx8tlwzbfakvcigtytg-on.drv.tw/images_desc/karotta.mp3</guid>
+            <pubDate>Mon, 27 Sep 2021 12:00:56 +0200</pubDate>
+            <itunes:image href="https://i.ibb.co/QvZjvvg/channels4-profile.jpg" />
+        </item>
+        <!-- 
 		<item>
 			<title>
 A 100 Legjobb Film - 1. Krisztus utolsó megkísértése</title>
@@ -1221,5 +1232,6 @@ Puzsér Róbert, Váradi Róbert </itunes:subtitle>
 			<guid>https://archive.org/download/AHtMesterlvsze-A100LegjobbFilm/001.mp3</guid>
 			<pubDate>Tue, 22 Dec 2015 00:00:00 +0100</pubDate>
 		</item>
-	</channel>
+-->
+    </channel>
 </rss>
