@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+    <channel>
+        <title>Puzsér Podcast</title>
+        <link>https://www.youtube.com/user/puzsermedia</link>
+        <language>hu</language>
+        <image>
+            <url>https://i.ibb.co/QvZjvvg/channels4-profile.jpg</url>
+            <title>Puzsér Róbert</title>
+            <link>https://www.youtube.com/user/puzsermedia</link>
+        </image>
+        <itunes:owner>
+            <itunes:name>Puzsér Róbert</itunes:name>
+            <itunes:email>rextimallen@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Society &amp; Culture">
+        </itunes:category>
+        <itunes:keywords>Puzsér Róbert</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://i.ibb.co/QvZjvvg/channels4-profile.jpg" />
+        <pubDate>Thu, 04 Apr 2019 19:08:28 +0200</pubDate>
+        <itunes:author>Puzsér Róbert</itunes:author>
+        <description>Puzsér Róbert</description>
+        <itunes:summary>Puzsér Róbert</itunes:summary>
+        <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+
+        <item><title>Bűnök az idő tengelyen; Mi a szem? [ÖM #404]</title><description>Puzsér Róbert, Horváth Oszkár, Kovács 4 Zoli</description><itunes:summary>Puzsér Róbert, Horváth Oszkár, Kovács 4 Zoli</itunes:summary><itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Kovács 4 Zoli</itunes:subtitle><enclosure url="https://tsfxahhkodeinreeeaqnuq-on.drv.tw/2021.09.27-podcast/B%C5%B1n%C3%B6k%20az%20id%C5%91%20tengelyen%3B%20Mi%20a%20szem%3F%20%5B%C3%96M%20%23404%5D.mp3" type="audio/mpeg" length="1" /><guid>https://tsfxahhkodeinreeeaqnuq-on.drv.tw/2021.09.27-podcast/B%C5%B1n%C3%B6k%20az%20id%C5%91%20tengelyen%3B%20Mi%20a%20szem%3F%20%5B%C3%96M%20%23404%5D.mp3</guid><pubDate>Mon, 27 Sep 2021 20:14:14 +0200</pubDate><itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg"/></item>
+
+            </channel>
+</rss>
