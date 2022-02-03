@@ -6,20 +6,20 @@
         <language>hu</language>
         <image>
             <url>https://i.ibb.co/47m46m1/3000-3000-1.jpg</url>
-            <title>Puzsér Róbert</title>
+            <title>Puzsér Róbert image title</title>
             <link>https://www.youtube.com/user/puzsermedia</link>
         </image>
         <itunes:owner>
-            <itunes:name>Puzsér Róbert</itunes:name>
+            <itunes:name>Puzsér Róbert name</itunes:name>
             <itunes:email>rextimallen@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:category text="Society &amp; Culture">
         </itunes:category>
-        <itunes:keywords>Puzsér Róbert</itunes:keywords>
+        <itunes:keywords>Puzsér Róbert keywords</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://i.ibb.co/47m46m1/3000-3000-1.jpg" />
         <pubDate>Thu, 04 Apr 2019 19:08:28 +0200</pubDate>
-        <itunes:author>Puzsér Róbert</itunes:author>
+        <itunes:author>Puzsér Róbert author</itunes:author>
         <description> description A Hard Talk https://www.puzser.hu</description>
         <itunes:summary>summary A Hard Talk egy társadalomkritikai https://www.puzser.hu</itunes:summary>
         <itunes:subtitle>subtitle Puzsér Róbert https://www.puzser.hu</itunes:subtitle>
