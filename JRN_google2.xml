@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+    <channel>
+        <title>A Jó, a Rossz és a Nézhetetlen</title>
+        <link>https://www.facebook.com/Robert.Puzser</link>
+        <language>hu</language>
+        <image>
+            <url>https://i.ibb.co/jM3pTGm/invertedjrn.jpg</url>
+            <title>Rob Puzser</title>
+            <link>https://www.facebook.com/Robert.Puzser</link>
+        </image>
+        <itunes:owner>
+            <itunes:name>Rob Puzser</itunes:name>
+            <itunes:email>prizetips@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:category text="TV &amp; Film" />
+        <itunes:keywords>Rob Puzser</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
+        <pubDate>Sun, 06 Feb 2022 10:22:42 +0200</pubDate>
+        <itunes:author>Puzsér Horváth </itunes:author>
+        <description>társaságában.</description>
+        <itunes:summary>Nyári Gábor társaságában.</itunes:summary>
+        <itunes:subtitle>Puzsér Oszkár, Csízi Gábor</itunes:subtitle>
+        <item>
+            <title>hont_zenehaz</title>
+            <description>Puzsér Róbert, Gödri Bulcsu</description>
+            <itunes:summary>Puzsér Róbert, Gödri Bulcsu</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert, Gödri Bulcsu</itunes:subtitle>
+            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/hont_zenehaz.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/puzser_youtube_podcast_2/hont_zenehaz.mp3</guid>
+            <pubDate>Sun, 06 Feb 2022 11:22:42 +0200</pubDate>
+            <itunes:image href="https://i.ibb.co/QvZjvvg/channels4-profile.jpg" />
+        </item>
+    </channel>
+</rss>
