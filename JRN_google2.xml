@@ -19,9 +19,11 @@
         <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         <pubDate>Sun, 06 Feb 2022 10:22:42 +0200</pubDate>
         <itunes:author>Puzsér Róbert, Horváth Oszkár</itunes:author>
-        <description>Hétről hétre éppen moziban futó filmekre, vagy egyenesen a premierekre állítjuk a fókuszt. Az aktuális premierfilm hypolása, boncolása, kerékbe törése, és az ezekhez tartozó értelmiségi fanyalgás két órában. A főbb szerepekben: Puzsér Róbert, Horváth Oszkár és egy falkányi hollywoodi nagykutya, várható rendszerességgel az Önkényes Mérvadóban állandó vendégeink, Csízi Ági és Nyári Gábor társaságában.</description>
-        <itunes:summary>Hétről hétre éppen moziban futó filmekre, vagy egyenesen a premierekre állítjuk a fókuszt. Az aktuális premierfilm hypolása, boncolása, kerékbe törése, és az ezekhez tartozó értelmiségi fanyalgás két órában. A főbb szerepekben: Puzsér Róbert, Horváth Oszkár és egy falkányi hollywoodi nagykutya, várható rendszerességgel az Önkényes Mérvadóban állandó vendégeink, Csízi Ági és Nyári Gábor társaságában.</itunes:summary>
+        <description>Az aktuális premierfilm hypolása, boncolása, kerékbe törése, és az ezekhez tartozó értelmiségi fanyalgás két órában.</description>
+        <itunes:summary>Az aktuális premierfilm hypolása, boncolása, kerékbe törése, és az ezekhez tartozó értelmiségi fanyalgás két órában.</itunes:summary>
         <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Csízi Ági és Nyári Gábor</itunes:subtitle>
+
+
         <item>
             <title>Ne nézz fel!</title>
             <description>Puzsér Róbert, Horváth Oszkár, Gödri Bulcsu</description>
@@ -32,7 +34,9 @@
             <pubDate>Thu, 13 Jan 2022 18:52:42 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
-        <item>
+
+
+        <!-- <item>
             <title>Gravitáció (2013) - filmajánló</title>
             <description>Puzsér Róbert, Horváth Oszkár</description>
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
@@ -604,5 +608,7 @@
             <guid>https://archive.org/download/joarosszesanezhetetlen/2049.mp3</guid>
             <pubDate>Tue, 22 Dec 2015 00:00:00 +0100</pubDate>
         </item>
+ -->
+        
     </channel>
 </rss>
