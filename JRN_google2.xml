@@ -24,19 +24,11 @@
         <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Csízi Ági és Nyári Gábor</itunes:subtitle>
 
 
-      <item>
-            <title>Ne nézz fel!</title>
-            <description>Puzsér Róbert, Horváth Oszkár, Gödri Bulcsu</description>
-            <itunes:summary>Puzsér Róbert, Horváth Oszkár, Gödri Bulcsu</itunes:summary>
-            <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Gödri Bulcsu</itunes:subtitle>
-            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Ne%20n%C3%A9zz%20fel!.mp3" type="audio/mpeg" length="1" />
-            <guid isPermaLink="false"></guid>
-            <pubDate>Thu, 13 Jan 2022 18:52:42 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
-        </item> 
+        <item><title>Ne nézz fel!</title><description>Puzsér Róbert, Horváth Oszkár, Gödri Bulcsu</description><itunes:summary>Puzsér Róbert, Horváth Oszkár, Gödri Bulcsu</itunes:summary><itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Gödri Bulcsu</itunes:subtitle><enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Ne%20n%C3%A9zz%20fel!.mp3" type="audio/mpeg" length="1" /><guid isPermaLink="false"></guid><pubDate>Thu, 13 Jan 2022 18:52:42 +0200</pubDate><itunes:image href="https://i.ibb.co/QvZjvvg/channels4-profile.jpg"/></item>
 
 
-       <!--  <item>
+
+    <item>
             <title>Gravitáció (2013) - filmajánló</title>
             <description>Puzsér Róbert, Horváth Oszkár</description>
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
@@ -598,7 +590,7 @@
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/3.mp3" type="audio/mpeg" length="1" />
             <guid isPermaLink="false"></guid>
             <pubDate>Wed, 23 Dec 2015 00:00:00 +0100</pubDate>
-        </item> -->
+        </item> 
         <item>
             <title>JRN #1 - Szárnyas fejvadász 2049</title>
             <description>Puzsér Róbert, Horváth Oszkár, Csízi Ági és Nyári Gábor</description>
