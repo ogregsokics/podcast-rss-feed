@@ -14,11 +14,11 @@
             <itunes:email>prizetips@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:category text="TV &amp; Film" />
-        <itunes:keywords>Rob Puzser</itunes:keywords>
+        <itunes:keywords>Rob,Puzser</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         <pubDate>Sun, 06 Feb 2022 10:22:42 +0200</pubDate>
-        <itunes:author>Puzsér Horváth</itunes:author>
+        <itunes:author>Puzsér Róbert, Horváth Oszkár</itunes:author>
         <description>Az aktuális premierfilm hypolása, boncolása, kerékbe törése, és az ezekhez tartozó értelmiségi fanyalgás két órában.</description>
         <itunes:summary>Az aktuális premierfilm hypolása, boncolása, kerékbe törése, és az ezekhez tartozó értelmiségi fanyalgás két órában.</itunes:summary>
         <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Csízi Ági és Nyári Gábor</itunes:subtitle>
@@ -30,7 +30,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár, Gödri Bulcsu</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Gödri Bulcsu</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Ne%20n%C3%A9zz%20fel!.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Ne%20n%C3%A9zz%20fel!.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Thu, 13 Jan 2022 18:52:42 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item> 
@@ -42,7 +42,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Gravit%C3%A1ci%C3%B3%20(2013)%20-%20filmaj%C3%A1nl%C3%B3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Gravit%C3%A1ci%C3%B3%20(2013)%20-%20filmaj%C3%A1nl%C3%B3.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 20:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -52,7 +52,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/%C3%89jjeli%20f%C3%A9reg%20(2014)%20-%20filmaj%C3%A1nl%C3%B3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/%C3%89jjeli%20f%C3%A9reg%20(2014)%20-%20filmaj%C3%A1nl%C3%B3.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 19:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -62,7 +62,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/%C3%89letreval%C3%B3k%20(2011)%20-%20filmaj%C3%A1nl%C3%B3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/%C3%89letreval%C3%B3k%20(2011)%20-%20filmaj%C3%A1nl%C3%B3.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 18:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -72,7 +72,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/A%20hom%C3%A1r%20(2015)%20-%20filmaj%C3%A1nl%C3%B3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/A%20hom%C3%A1r%20(2015)%20-%20filmaj%C3%A1nl%C3%B3.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 17:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -82,7 +82,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Don%20Jon%20(2013)%20-%20filmaj%C3%A1nl%C3%B3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Don%20Jon%20(2013)%20-%20filmaj%C3%A1nl%C3%B3.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 16:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -92,7 +92,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Eszeveszett%20mes%C3%A9k%20(2014)%20-%20filmaj%C3%A1nl%C3%B3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Eszeveszett%20mes%C3%A9k%20(2014)%20-%20filmaj%C3%A1nl%C3%B3.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 15:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -102,7 +102,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Teljesen%20idegenek%20(2016)%20-%20filmaj%C3%A1nl%C3%B3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Teljesen%20idegenek%20(2016)%20-%20filmaj%C3%A1nl%C3%B3.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 14:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -112,7 +112,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Sr%C3%A1ckor%20(2014)%20-%20filmaj%C3%A1nl%C3%B3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Sr%C3%A1ckor%20(2014)%20-%20filmaj%C3%A1nl%C3%B3.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 13:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -122,7 +122,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Fekete%20mise%20(2015)%20-%20filmaj%C3%A1nl%C3%B3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Fekete%20mise%20(2015)%20-%20filmaj%C3%A1nl%C3%B3.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 12:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -132,7 +132,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Amerikai%20mesterl%C3%B6v%C3%A9sz%20(2014)%20-%20filmaj%C3%A1nl%C3%B3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Amerikai%20mesterl%C3%B6v%C3%A9sz%20(2014)%20-%20filmaj%C3%A1nl%C3%B3.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 11:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -142,7 +142,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Hell%20or%20High%20Water%20(2016)%20-%20filmaj%C3%A1nl%C3%B3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Hell%20or%20High%20Water%20(2016)%20-%20filmaj%C3%A1nl%C3%B3.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 10:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -152,7 +152,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/A%20fegyvertelen%20katona%20(2016)%20-%20filmaj%C3%A1nl%C3%B3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/A%20fegyvertelen%20katona%20(2016)%20-%20filmaj%C3%A1nl%C3%B3.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 09:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -162,7 +162,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Snowpiercer%20(2013)%20-%20filmaj%C3%A1nl%C3%B3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Snowpiercer%20(2013)%20-%20filmaj%C3%A1nl%C3%B3.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 08:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -172,7 +172,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Aljas%20nyolcas%20(2015)%20-%20filmaj%C3%A1nl%C3%B3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Aljas%20nyolcas%20(2015)%20-%20filmaj%C3%A1nl%C3%B3.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 07:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -182,7 +182,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/A%20Wall%20Street%20farkasa%20(2013)%20-%20filmaj%C3%A1nl%C3%B3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/A%20Wall%20Street%20farkasa%20(2013)%20-%20filmaj%C3%A1nl%C3%B3.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 06:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -192,7 +192,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/N%C3%A9mas%C3%A1g%20(2016)%20-%20filmaj%C3%A1nl%C3%B3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/N%C3%A9mas%C3%A1g%20(2016)%20-%20filmaj%C3%A1nl%C3%B3.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 05:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -202,7 +202,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Ex%20Machina%20(2014)%20-%20filmaj%C3%A1nl%C3%B3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Ex%20Machina%20(2014)%20-%20filmaj%C3%A1nl%C3%B3.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 04:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -212,7 +212,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Az%20%C3%ADr%20%E2%80%93%20A%20J%C3%B3%2C%20a%20Rossz%20%C3%A9s%20a%20N%C3%A9zhetetlen%20k%C3%BCl%C3%B6nkiad%C3%A1s.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Az%20%C3%ADr%20%E2%80%93%20A%20J%C3%B3%2C%20a%20Rossz%20%C3%A9s%20a%20N%C3%A9zhetetlen%20k%C3%BCl%C3%B6nkiad%C3%A1s.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 03:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -222,7 +222,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Le%20Mans%20'66%20_%20Ford%20v.%20Ferrari%20%E2%80%93%20A%20J%C3%B3%2C%20a%20Rossz%20%C3%A9s%20a%20N%C3%A9zhetetlen%20k%C3%BCl%C3%B6nkiad%C3%A1s.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Le%20Mans%20'66%20_%20Ford%20v.%20Ferrari%20%E2%80%93%20A%20J%C3%B3%2C%20a%20Rossz%20%C3%A9s%20a%20N%C3%A9zhetetlen%20k%C3%BCl%C3%B6nkiad%C3%A1s.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 02:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -232,7 +232,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Midway%20%E2%80%93%20A%20J%C3%B3%2C%20a%20Rossz%20%C3%A9s%20a%20N%C3%A9zhetetlen%20k%C3%BCl%C3%B6nkiad%C3%A1s.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Midway%20%E2%80%93%20A%20J%C3%B3%2C%20a%20Rossz%20%C3%A9s%20a%20N%C3%A9zhetetlen%20k%C3%BCl%C3%B6nkiad%C3%A1s.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 01:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -242,7 +242,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/%C3%81lom%20doktor%20%E2%80%93%20A%20J%C3%B3%2C%20a%20Rossz%20%C3%A9s%20a%20N%C3%A9zhetetlen%20k%C3%BCl%C3%B6nkiad%C3%A1s.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/%C3%81lom%20doktor%20%E2%80%93%20A%20J%C3%B3%2C%20a%20Rossz%20%C3%A9s%20a%20N%C3%A9zhetetlen%20k%C3%BCl%C3%B6nkiad%C3%A1s.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 09 Feb 2022 00:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -252,7 +252,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Joker%20-%20A%20J%C3%B3%2C%20a%20Rossz%20%C3%A9s%20a%20N%C3%A9zhetetlen%20k%C3%BCl%C3%B6nkiad%C3%A1s.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Joker%20-%20A%20J%C3%B3%2C%20a%20Rossz%20%C3%A9s%20a%20N%C3%A9zhetetlen%20k%C3%BCl%C3%B6nkiad%C3%A1s.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Tue, 08 Feb 2022 23:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
@@ -263,7 +263,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár, Farkas Attila Márton (2019. szeptember)</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Farkas Attila Márton (2019. szeptember)</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/1568928638272.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/1568928638272.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Thu, 19 Sep 2019 21:30:38 +0200</pubDate>
         </item>
         <item>
@@ -272,7 +272,7 @@
             <itunes:summary>Puzsér Róbert, Horváth Oszkár, Farkas Attila Márton (2019. szeptember)</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Farkas Attila Márton (2019. szeptember)</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/1568928266013.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/1568928266013.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Thu, 19 Sep 2019 21:24:26 +0200</pubDate>
         </item>
         <item>
@@ -281,7 +281,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Nyári Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/38.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/38.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Thu, 04 Apr 2019 08:41:04 +0200</pubDate>
         </item>
         <item>
@@ -290,7 +290,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Boros Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/37.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/37.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Thu, 04 Apr 2019 08:40:04 +0200</pubDate>
         </item>
         <item>
@@ -299,7 +299,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Nyári Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/36.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/36.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Mon, 25 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -308,7 +308,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Nyári Gábor, Tasnádi 'Ellenpont' András</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/35.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/35.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Sun, 24 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -317,7 +317,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Csízi Ági</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/34.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/34.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Sat, 23 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -326,7 +326,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Csízi Ági</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/33.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/33.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Fri, 22 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -335,7 +335,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Csízi Ági</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/32.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/32.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Thu, 21 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -344,7 +344,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Csízi Ági</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/31.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/31.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 20 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -353,7 +353,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Nyári Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/30.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/30.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Tue, 19 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -362,7 +362,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Nyári Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/29.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/29.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Mon, 18 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -371,7 +371,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/28.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/28.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Sun, 17 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -380,7 +380,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Nyári Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/27.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/27.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Sat, 16 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -389,7 +389,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Nyári Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/26.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/26.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Fri, 15 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -398,7 +398,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Nyári Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/25.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/25.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Thu, 14 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -407,7 +407,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/24.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/24.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 13 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -416,7 +416,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Nyári Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/23.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/23.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Tue, 12 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -425,7 +425,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/22.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/22.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Mon, 11 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -434,7 +434,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/21.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/21.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Sun, 10 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -443,7 +443,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/20.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/20.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Sat, 9 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -452,7 +452,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Nyári Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/19.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/19.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Fri, 8 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -461,7 +461,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/18.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/18.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Thu, 7 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -470,7 +470,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Nyári Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/17.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/17.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 6 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -479,7 +479,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Csízi Ági</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/16.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/16.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Tue, 5 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -488,7 +488,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Nyári Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/15.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/15.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Mon, 4 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -497,7 +497,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Boros Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/14.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/14.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Sun, 3 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -506,7 +506,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Csízi Ági</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/13.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/13.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Sat, 2 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -515,7 +515,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Nyári Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/12.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/12.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Fri, 1 Jan 2016 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -524,7 +524,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Nyári Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/11.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/11.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Thu, 31 Dec 2015 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -533,7 +533,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Csízi Ági, Ambrus Attila</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/10.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/10.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 30 Dec 2015 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -542,7 +542,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Nyári Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/9.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/9.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Tue, 29 Dec 2015 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -551,7 +551,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Csízi Ági</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/8.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/8.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Mon, 28 Dec 2015 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -560,7 +560,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Nyári Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/7.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/7.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Sun, 27 Dec 2015 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -569,7 +569,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Csízi Ági</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/6.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/6.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Sat, 26 Dec 2015 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -578,7 +578,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Csízi Ági</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/5.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/5.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Fri, 25 Dec 2015 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -587,7 +587,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Csízi Ági és Nyári Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/4.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/4.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Thu, 24 Dec 2015 00:00:00 +0100</pubDate>
         </item>
         <item>
@@ -596,7 +596,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Nyári Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/3.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 23 Dec 2015 00:00:00 +0100</pubDate>
         </item> -->
         <item>
@@ -605,7 +605,7 @@
             <itunes:summary>Puzsér</itunes:summary>
             <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Csízi Ági és Nyári Gábor</itunes:subtitle>
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/2049.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/joarosszesanezhetetlen/2049.mp3</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Tue, 22 Dec 2015 00:00:00 +0100</pubDate>
         </item>
  
