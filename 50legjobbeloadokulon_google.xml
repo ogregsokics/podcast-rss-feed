@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
 	<channel>
-		<title>Puzsér Podcast | Sznobjektív | Az 50 Legjobb Zenei Előadó</title>
+		<title>Az 50 Legjobb Zenei Előadó</title>
 		<link>https://www.youtube.com/user/puzsermedia</link>
 		<language>hu</language>
 		<image>
-			<url>https://i.ibb.co/SKgQFn9/50best3000-3000.jpg</url>
-			<title>Puzsér Podcast | Sznobjektív | Az 50 Legjobb Zenei Előadó</title>
+			<url>https://i.ibb.co/bHHn8HD/wtf.jpg</url>
+			<title>Az 50 Legjobb Zenei Előadó</title>
 			<link>https://www.youtube.com/user/puzsermedia</link>
 		</image>
 		<itunes:owner>
@@ -14,21 +14,21 @@
 			<itunes:email>rextimallen@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:category text="Music" ></itunes:category>
-		<itunes:keywords>Puzsér Róbert</itunes:keywords>
+		<itunes:keywords>Puzsér</itunes:keywords>
 		<itunes:explicit>yes</itunes:explicit>
-		<itunes:image href="https://i.ibb.co/SKgQFn9/50best3000-3000.jpg" />
+		<itunes:image href="https://i.ibb.co/bHHn8HD/wtf.jpg" />
 		<pubDate>Thu, 04 Apr 2019 08:49:04 +0200</pubDate>
 		<itunes:author>Puzsér Róbert</itunes:author>
-		<description>Valaha törzsi dobok és a sámán éneke szolgáltak arra, hogy ellássák a legõsibb szakrális funkciót, és révületbe vigyék a népet. A kereszténység térhódításával a templomok orgonái váltak médiummá, hogy az istenit az emberek számára közvetítsék. Aztán valahol New Orleans egyik templomában e kettõ összefonódott. A huszadik század második felére a modern kor profán sámánjai, a rock and roll elõadómûvészei vették át ugyanezt a szerepet. Úgy döntöttem, sorba állítom õket érdemeik szerint, mielõtt még méltatlan utódaik, a dj-k végleg a helyükre lépnek. Azért indítottam útjára a Sznobjektív rendezvénysorozatot a Gozsdu Manó Klubban, hogy azok elõtt a mûvészek elõtt tisztelegjek, akik leginkább megérintettek és inspiráltak az elmúlt évtizedek során, akik az éteri szubsztanciát képesek voltak sztereó-élménnyé formálni számomra. Jó szórakozást és alapos okulást kívánok! A rendezvény 2013 októberében indult. Ebben 10+1 héten keresztül mutattuk be az 50 legkiválóbb könnyûzenei elõadót. A rendezvénysorozat közremûködõi: Elõadók: Puzsér Róbert, Magyar Dávid, Horváth Oszkár, Gödri Bulcsu, Dinnyés Gergely és McMenemy Márk.</description>
-		<itunes:summary>Valaha törzsi dobok és a sámán éneke szolgáltak arra, hogy ellássák a legõsibb szakrális funkciót, és révületbe vigyék a népet. A kereszténység térhódításával a templomok orgonái váltak médiummá, hogy az istenit az emberek számára közvetítsék. Aztán valahol New Orleans egyik templomában e kettõ összefonódott. A huszadik század második felére a modern kor profán sámánjai, a rock and roll elõadómûvészei vették át ugyanezt a szerepet. Úgy döntöttem, sorba állítom õket érdemeik szerint, mielõtt még méltatlan utódaik, a dj-k végleg a helyükre lépnek. Azért indítottam útjára a Sznobjektív rendezvénysorozatot a Gozsdu Manó Klubban, hogy azok elõtt a mûvészek elõtt tisztelegjek, akik leginkább megérintettek és inspiráltak az elmúlt évtizedek során, akik az éteri szubsztanciát képesek voltak sztereó-élménnyé formálni számomra. Jó szórakozást és alapos okulást kívánok! A rendezvény 2013 októberében indult. Ebben 10+1 héten keresztül mutattuk be az 50 legkiválóbb könnyûzenei elõadót. A rendezvénysorozat közremûködõi: Elõadók: Puzsér Róbert, Magyar Dávid, Horváth Oszkár, Gödri Bulcsu, Dinnyés Gergely és McMenemy Márk.</itunes:summary>
-		<itunes:subtitle>Puzsér Róbert</itunes:subtitle>
+		<description>A rendezvénysorozat közremûködõi: Elõadók: Puzsér Róbert, Magyar Dávid, Horváth Oszkár, Gödri Bulcsu, Dinnyés Gergely és McMenemy Márk.</description>
+		<itunes:summary>A rendezvénysorozat közremûködõi: Elõadók: Puzsér Róbert, Magyar Dávid, Horváth Oszkár, Gödri Bulcsu, Dinnyés Gergely és McMenemy Márk.</itunes:summary>
+		<itunes:subtitle>Puzsér</itunes:subtitle>
 		<item>
 			<title>#50 Lenny Kravitz</title>
 			<description>Puzsér Róbert, Magyar Dávid</description>
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Magyar Dávid</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon50.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon50.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Thu, 04 Apr 2019 08:42:04 +0200</pubDate>
 		</item>
 		<item>
@@ -37,7 +37,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Magyar Dávid</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon49.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon49.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Thu, 04 Apr 2019 08:41:04 +0200</pubDate>
 		</item>
 		<item>
@@ -46,7 +46,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Magyar Dávid</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon48.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon48.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Thu, 04 Apr 2019 08:40:04 +0200</pubDate>
 		</item>
 		<item>
@@ -55,7 +55,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Magyar Dávid</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon47.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon47.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Wed, 6 Feb 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -64,7 +64,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Magyar Dávid</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon46.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon46.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Tue, 5 Feb 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -73,7 +73,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon45.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon45.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Mon, 4 Feb 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -82,7 +82,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon44.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon44.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Sun, 3 Feb 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -91,7 +91,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon43.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon43.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Sat, 2 Feb 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -100,7 +100,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon42.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon42.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Fri, 1 Feb 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -109,7 +109,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon41.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon41.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Thu, 31 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -118,7 +118,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Gödri Bulcsu</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon40.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon40.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Wed, 30 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -127,7 +127,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Gödri Bulcsu</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon39.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon39.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Tue, 29 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -136,7 +136,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Gödri Bulcsu</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon38.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon38.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Mon, 28 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -145,7 +145,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Gödri Bulcsu</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon37.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon37.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Sun, 27 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -154,7 +154,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Gödri Bulcsu</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon36.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon36.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Sat, 26 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -163,7 +163,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Dinnyés Gergely</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon35.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon35.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Fri, 25 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -172,7 +172,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Dinnyés Gergely</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon34.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon34.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Thu, 24 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -181,7 +181,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Dinnyés Gergely</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon33.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon33.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Wed, 23 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -190,7 +190,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Dinnyés Gergely</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon32.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon32.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Tue, 22 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -199,7 +199,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Dinnyés Gergely</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon31.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon31.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Mon, 21 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -208,7 +208,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, McMenemy Márk</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon30.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon30.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Sun, 20 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -217,7 +217,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, McMenemy Márk</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon29.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon29.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Sat, 19 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -226,7 +226,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, McMenemy Márk</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon28.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon28.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Fri, 18 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -235,7 +235,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, McMenemy Márk</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon27.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon27.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Thu, 17 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -244,7 +244,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, McMenemy Márk</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon26.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon26.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Wed, 16 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -253,7 +253,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon25.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon25.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -262,7 +262,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon24.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon24.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Mon, 14 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -271,7 +271,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon23.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon23.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Sun, 13 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -280,7 +280,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon22.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon22.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Sat, 12 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -289,7 +289,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon21.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon21.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Fri, 11 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -298,7 +298,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Gödri Bulcsu</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon20.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon20.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Thu, 10 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -307,7 +307,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Gödri Bulcsu</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon19.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon19.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Wed, 9 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -316,7 +316,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Gödri Bulcsu</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon18.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon18.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Tue, 8 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -325,7 +325,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Gödri Bulcsu</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon17.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon17.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Mon, 7 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -334,7 +334,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Gödri Bulcsu</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon16.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon16.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Sun, 6 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -343,7 +343,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Dinnyés Gergely</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon15.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon15.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Sat, 5 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -352,7 +352,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Dinnyés Gergely</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon14.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon14.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Fri, 4 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -361,7 +361,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Dinnyés Gergely</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon13.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon13.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Thu, 3 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -370,7 +370,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Dinnyés Gergely</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon12.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon12.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Wed, 2 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -379,7 +379,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Dinnyés Gergely</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon11.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon11.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Tue, 1 Jan 2019 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -388,7 +388,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Magyar Dávid</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon10.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon10.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Mon, 31 Dec 2018 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -397,7 +397,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Magyar Dávid</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon09.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon09.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Sun, 30 Dec 2018 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -406,7 +406,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Magyar Dávid</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon08.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon08.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Sat, 29 Dec 2018 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -415,7 +415,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Magyar Dávid</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon07.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon07.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Fri, 28 Dec 2018 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -424,7 +424,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Magyar Dávid</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon06.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon06.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Thu, 27 Dec 2018 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -433,7 +433,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon05.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon05.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Wed, 26 Dec 2018 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -442,7 +442,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon04.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon04.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Tue, 25 Dec 2018 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -451,7 +451,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon03.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon03.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Mon, 24 Dec 2018 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -460,7 +460,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Horváth Oszkár</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon02.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon02.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Sun, 23 Dec 2018 00:00:00 +0100</pubDate>
 		</item>
 		<item>
@@ -469,7 +469,7 @@
 			<itunes:summary>Puzsér Róbert</itunes:summary>
 			<itunes:subtitle>Puzsér Róbert, Dinnyés Gergely</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon01.mp3" type="audio/mpeg" length="1" />
-			<guid>https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon01.mp3</guid>
+			<guid isPermaLink="false"></guid>
 			<pubDate>Sat, 22 Dec 2018 00:00:00 +0100</pubDate>
 		</item>
 	</channel>
