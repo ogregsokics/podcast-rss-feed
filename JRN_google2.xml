@@ -22,11 +22,27 @@
         <description>Az aktuális premierfilm hypolása, boncolása, kerékbe törése, és az ezekhez tartozó értelmiségi fanyalgás két órában.</description>
         <itunes:summary>Az aktuális premierfilm hypolása, boncolása, kerékbe törése, és az ezekhez tartozó értelmiségi fanyalgás két órában.</itunes:summary>
         <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Csízi Ági és Nyári Gábor</itunes:subtitle>
-
-
-
-
-    <item>
+        <item>
+            <title>Ne nézz fel!</title>
+            <description>Puzsér Róbert, Horváth Oszkár, Gödri Bulcsu</description>
+            <itunes:summary>Puzsér Róbert, Horváth Oszkár, Gödri Bulcsu</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Gödri Bulcsu</itunes:subtitle>
+            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Ne%20n%C3%A9zz%20fel!.mp3" type="audio/mpeg" length="1" />
+            <guid isPermaLink="false"></guid>
+            <pubDate>Sun, 13 Feb 2022 10:50:22 +0200</pubDate>
+            <itunes:image href="https://i.ibb.co/QvZjvvg/channels4-profile.jpg" />
+        </item>
+        <item>
+            <title>Sztálin halála (film) [ÖM #458]</title>
+            <description>Puzsér Róbert, Horváth Oszkár, Nyári Gábor</description>
+            <itunes:summary>Puzsér Róbert, Horváth Oszkár, Nyári Gábor</itunes:summary>
+            <itunes:subtitle>Puzsér Róbert, Horváth Oszkár, Nyári Gábor</itunes:subtitle>
+            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Szt%C3%A1lin%20hal%C3%A1la%20(film)%20%5B%C3%96M%20%23458%5D.mp3" type="audio/mpeg" length="1" />
+            <guid isPermaLink="false"></guid>
+            <pubDate>Sun, 13 Feb 2022 10:49:22 +0200</pubDate>
+            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+        </item>
+        <item>
             <title>Gravitáció (2013) - filmajánló</title>
             <description>Puzsér Róbert, Horváth Oszkár</description>
             <itunes:summary>Puzsér Róbert, Horváth Oszkár</itunes:summary>
@@ -246,8 +262,7 @@
             <pubDate>Tue, 08 Feb 2022 23:10:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/jM3pTGm/invertedjrn.jpg" />
         </item>
-
-          <item>
+        <item>
             <title>Volt egyszer egy Hollywood - A Jó, a Rossz és a Nézhetetlen különkiadás</title>
             <description>Puzsér Róbert, Horváth Oszkár, Farkas Attila Márton (2019. szeptember)</description>
             <itunes:summary>Puzsér Róbert, Horváth Oszkár, Farkas Attila Márton (2019. szeptember)</itunes:summary>
@@ -588,7 +603,7 @@
             <enclosure url="https://archive.org/download/joarosszesanezhetetlen/3.mp3" type="audio/mpeg" length="1" />
             <guid isPermaLink="false"></guid>
             <pubDate>Wed, 23 Dec 2015 00:00:00 +0100</pubDate>
-        </item> 
+        </item>
         <item>
             <title>JRN #1 - Szárnyas fejvadász 2049</title>
             <description>Puzsér Róbert, Horváth Oszkár, Csízi Ági és Nyári Gábor</description>
@@ -598,7 +613,5 @@
             <guid isPermaLink="false"></guid>
             <pubDate>Tue, 22 Dec 2015 00:00:00 +0100</pubDate>
         </item>
- 
-        
     </channel>
 </rss>
