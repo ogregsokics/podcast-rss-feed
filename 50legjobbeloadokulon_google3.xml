@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
 	<channel>
-		<title>Az 50 Legjobb Előadó Valaha</title>
+		<title>Valaha</title>
 		<link>https://www.puzser.hu</link>
 		<language>hu</language>
 		<image>
 			<url>https://i.ibb.co/bHHn8HD/wtf.jpg</url>
-			<title>Az 50 Legjobb Előadó Valaha</title>
+			<title>Valaha</title>
 			<link>https://www.puzser.hu</link>
 		</image>
 		<itunes:owner>
