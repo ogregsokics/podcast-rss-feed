@@ -1,28 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
 	<channel>
-		<title>Sznobjektív: Az 50 Legjobb Előadó Valaha</title>
+		<title>Az 50 Legjobb Előadó Valaha</title>
 		<link>https://www.youtube.com/user/puzsermedia</link>
 		<language>hu</language>
 		<image>
 			<url>https://i.ibb.co/bHHn8HD/wtf.jpg</url>
-			<title>Sznobjektív: Az 50 Legjobb Előadó Valaha</title>
+			<title>Az 50 Legjobb Előadó Valaha</title>
 			<link>https://www.puzser.hu</link>
 		</image>
 		<itunes:owner>
-			<itunes:name>Puzsér.Róbert</itunes:name>
+			<itunes:name>Róbert</itunes:name>
 			<itunes:email>prizetips@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:category text="Music" ></itunes:category>
 		<!-- <itunes:keywords>Puzsér</itunes:keywords> -->
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:image href="https://i.ibb.co/bHHn8HD/wtf.jpg" />
-		<pubDate>Thu, 04 Apr 2019 08:49:04 +0200</pubDate>
-		<itunes:author>Puzsér Róbert</itunes:author>
-		<description>A rendezvénysorozat közremûködõi: Elõadók: Puzsér Róbert, Magyar Dávid, Horváth Oszkár, Gödri Bulcsu, Dinnyés Gergely és McMenemy Márk.</description>
-		<itunes:summary>A rendezvénysorozat közremûködõi: Elõadók: Puzsér Róbert, Magyar Dávid, Horváth Oszkár, Gödri Bulcsu, Dinnyés Gergely és McMenemy Márk.</itunes:summary>
+		<pubDate>Tue, 15 Feb 2022 21:30:50 +0200</pubDate>
+		<itunes:author>Puzsér</itunes:author>
+		<description>Előadók: Puzsér Róbert, Magyar Dávid, Horváth Oszkár, Gödri Bulcsu, Dinnyés Gergely és McMenemy Márk.</description>
+		<itunes:summary>Előadók: Puzsér Róbert, Magyar Dávid, Horváth Oszkár, Gödri Bulcsu, Dinnyés Gergely és McMenemy Márk.</itunes:summary>
 		<itunes:subtitle>Puzsér</itunes:subtitle>
-		<item>
+
+
+
+
+
+	<!-- 	<item>
 			<title>#50 Lenny Kravitz</title>
 			<description>Puzsér Róbert, Magyar Dávid</description>
 			<itunes:summary>Puzsér Róbert</itunes:summary>
@@ -463,6 +468,7 @@
 			<guid isPermaLink="false"></guid>
 			<pubDate>Sun, 23 Dec 2018 00:00:00 +0100</pubDate>
 		</item>
+		-->
 		<item>
 			<title>#1 Jean Michel Jarre</title>
 			<description>Puzsér Róbert, Dinnyés Gergely</description>
@@ -470,7 +476,7 @@
 			<itunes:subtitle>Puzsér Róbert, Dinnyés Gergely</itunes:subtitle>
 			<enclosure url="https://archive.org/download/Sznobjektv-Az50LegjobbElad2013-2014/kulon01.mp3" type="audio/mpeg" length="1" />
 			<guid isPermaLink="false"></guid>
-			<pubDate>Sat, 22 Dec 2018 00:00:00 +0100</pubDate>
-		</item>
+			<pubDate>Sat, 22 Dec 2018 00:05:00 +0100</pubDate>
+		</item> 
 	</channel>
 </rss>
