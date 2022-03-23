@@ -25,34 +25,68 @@
         <itunes:subtitle>Puzsér Róbert</itunes:subtitle>
         <!--XXXXXX-->
 
-<item><title>A 6 alap érzelem [ÖM #499]</title><description>Horváth Oszkár, Tasnádi András, Csízi Ágnes</description><itunes:summary>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:summary><itunes:subtitle>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:subtitle><enclosure url="https://archive.org/download/puzser_youtube_podcast_2/A%206%20alap%20%C3%A9rzelem%20%5B%C3%96M%20%23499%5D.mp3" type="audio/mpeg" length="1" /><guid>https://archive.org/download/puzser_youtube_podcast_2/A%206%20alap%20%C3%A9rzelem%20%5B%C3%96M%20%23499%5D.mp3</guid><pubDate>Tue, 22 Mar 2022 20:42:21 +0200</pubDate><itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg"/></item>
-
-
-
-<item><title>G.w.M és a gyerektartás</title><description>Horváth Oszkár, Tasnádi András, Csízi Ágnes</description><itunes:summary>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:summary><itunes:subtitle>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:subtitle><enclosure url="https://archive.org/download/puzser_youtube_podcast_2/G.w.M%20%C3%A9s%20a%20gyerektart%C3%A1s.mp3" type="audio/mpeg" length="1" /><guid>https://archive.org/download/puzser_youtube_podcast_2/G.w.M%20%C3%A9s%20a%20gyerektart%C3%A1s.mp3</guid><pubDate>Tue, 22 Mar 2022 20:42:21 +0200</pubDate><itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg"/></item>
-
-
-
-<item><title>Navalnij bűnös</title><description>Horváth Oszkár, Tasnádi András, Csízi Ágnes</description><itunes:summary>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:summary><itunes:subtitle>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:subtitle><enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Navalnij%20b%C5%B1n%C3%B6s.mp3" type="audio/mpeg" length="1" /><guid>https://archive.org/download/puzser_youtube_podcast_2/Navalnij%20b%C5%B1n%C3%B6s.mp3</guid><pubDate>Tue, 22 Mar 2022 20:42:21 +0200</pubDate><itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg"/></item>
-
-
-
-<item><title>Az illúziót vesztett férfi [ÖM #498]</title><description>Horváth Oszkár, Tasnádi András, Csízi Ágnes</description><itunes:summary>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:summary><itunes:subtitle>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:subtitle><enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Az%20ill%C3%BAzi%C3%B3t%20vesztett%20f%C3%A9rfi%20%5B%C3%96M%20%23498%5D.mp3" type="audio/mpeg" length="1" /><guid>https://archive.org/download/puzser_youtube_podcast_2/Az%20ill%C3%BAzi%C3%B3t%20vesztett%20f%C3%A9rfi%20%5B%C3%96M%20%23498%5D.mp3</guid><pubDate>Mon, 21 Mar 2022 18:26:41 +0200</pubDate><itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg"/></item>
-
-
-
-<item><title>Zelenszkij az Oscaron</title><description>Horváth Oszkár, Tasnádi András, Csízi Ágnes</description><itunes:summary>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:summary><itunes:subtitle>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:subtitle><enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Zelenszkij%20az%20Oscaron.mp3" type="audio/mpeg" length="1" /><guid>https://archive.org/download/puzser_youtube_podcast_2/Zelenszkij%20az%20Oscaron.mp3</guid><pubDate>Mon, 21 Mar 2022 18:26:41 +0200</pubDate><itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg"/></item>
-
-
-
-<item><title>Elköszön a Papifrankó</title><description>Horváth Oszkár, Tasnádi András, Csízi Ágnes</description><itunes:summary>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:summary><itunes:subtitle>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:subtitle><enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Elk%C3%B6sz%C3%B6n%20a%20Papifrank%C3%B3.mp3" type="audio/mpeg" length="1" /><guid>https://archive.org/download/puzser_youtube_podcast_2/Elk%C3%B6sz%C3%B6n%20a%20Papifrank%C3%B3.mp3</guid><pubDate>Mon, 21 Mar 2022 18:26:41 +0200</pubDate><itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg"/></item>
-
-
-
-
-        
+<item>
+            <title>A 6 alap érzelem [ÖM #499]</title>
+            <description>Horváth Oszkár, Tasnádi András, Csízi Ágnes</description>
+            <itunes:summary>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:summary>
+            <itunes:subtitle>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:subtitle>
+            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/A%206%20alap%20%C3%A9rzelem%20%5B%C3%96M%20%23499%5D.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/puzser_youtube_podcast_2/A%206%20alap%20%C3%A9rzelem%20%5B%C3%96M%20%23499%5D.mp3</guid>
+            <pubDate>Tue, 22 Mar 2022 20:42:21 +0200</pubDate>
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
+        </item>
         <item>
-            <title>2022.03.15. Apu az orosz-ukrán háborúról</title>
+            <title>G.w.M és a gyerektartás</title>
+            <description>Horváth Oszkár, Tasnádi András, Csízi Ágnes</description>
+            <itunes:summary>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:summary>
+            <itunes:subtitle>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:subtitle>
+            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/G.w.M%20%C3%A9s%20a%20gyerektart%C3%A1s.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/puzser_youtube_podcast_2/G.w.M%20%C3%A9s%20a%20gyerektart%C3%A1s.mp3</guid>
+            <pubDate>Tue, 22 Mar 2022 20:42:21 +0200</pubDate>
+            <itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg" />
+        </item>
+        <item>
+            <title>Navalnij bűnös</title>
+            <description>Horváth Oszkár, Tasnádi András, Csízi Ágnes</description>
+            <itunes:summary>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:summary>
+            <itunes:subtitle>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:subtitle>
+            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Navalnij%20b%C5%B1n%C3%B6s.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/puzser_youtube_podcast_2/Navalnij%20b%C5%B1n%C3%B6s.mp3</guid>
+            <pubDate>Tue, 22 Mar 2022 20:42:21 +0200</pubDate>
+            <itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg" />
+        </item>
+        <item>
+            <title>Az illúziót vesztett férfi [ÖM #498]</title>
+            <description>Horváth Oszkár, Tasnádi András, Csízi Ágnes</description>
+            <itunes:summary>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:summary>
+            <itunes:subtitle>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:subtitle>
+            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Az%20ill%C3%BAzi%C3%B3t%20vesztett%20f%C3%A9rfi%20%5B%C3%96M%20%23498%5D.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/puzser_youtube_podcast_2/Az%20ill%C3%BAzi%C3%B3t%20vesztett%20f%C3%A9rfi%20%5B%C3%96M%20%23498%5D.mp3</guid>
+            <pubDate>Mon, 21 Mar 2022 18:26:41 +0200</pubDate>
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
+        </item>
+        <item>
+            <title>Zelenszkij az Oscaron</title>
+            <description>Horváth Oszkár, Tasnádi András, Csízi Ágnes</description>
+            <itunes:summary>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:summary>
+            <itunes:subtitle>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:subtitle>
+            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Zelenszkij%20az%20Oscaron.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/puzser_youtube_podcast_2/Zelenszkij%20az%20Oscaron.mp3</guid>
+            <pubDate>Mon, 21 Mar 2022 18:26:41 +0200</pubDate>
+            <itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg" />
+        </item>
+        <item>
+            <title>Elköszön a Papifrankó</title>
+            <description>Horváth Oszkár, Tasnádi András, Csízi Ágnes</description>
+            <itunes:summary>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:summary>
+            <itunes:subtitle>Horváth Oszkár, Tasnádi András, Csízi Ágnes</itunes:subtitle>
+            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Elk%C3%B6sz%C3%B6n%20a%20Papifrank%C3%B3.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/puzser_youtube_podcast_2/Elk%C3%B6sz%C3%B6n%20a%20Papifrank%C3%B3.mp3</guid>
+            <pubDate>Mon, 21 Mar 2022 18:26:41 +0200</pubDate>
+            <itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg" />
+        </item>
+        <item>
+            <title>2022.03.15. Apu a háborúról, Orbán keleti szövetségéről és a posztkommunista jobboldal identitásválságáról</title>
             <description>Puzsér Róbert és Farkas Attila Márton beszélgetése az Ellátóban.</description>
             <itunes:summary>Puzsér Róbert és Farkas Attila Márton beszélgetése az Ellátóban.</itunes:summary>
             <itunes:subtitle>Puzsér Róbert és Farkas Attila Márton beszélgetése az Ellátóban.</itunes:subtitle>
@@ -61,16 +95,6 @@
             <pubDate>Fri, 18 Mar 2022 11:42:49 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/Rbsq8P8/apu-1.jpg" />
         </item>
-        <!--  <item>
-            <title>2022.03.15. Apu az orosz-ukrán háborúról, Orbán Viktor keleti szövetségéről és a posztkommunista jobboldal identitásválságáról</title>
-            <description>Puzsér Róbert, Farkas Attila Márton</description>
-            <itunes:summary>Puzsér Róbert, Farkas Attila Márton</itunes:summary>
-            <itunes:subtitle>Puzsér Róbert, Farkas Attila Márton</itunes:subtitle>
-            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/2022.03.15.%20Apu%20az%20orosz-ukr%C3%A1n%20h%C3%A1bor%C3%BAr%C3%B3l%2C%20Orb%C3%A1n%20Viktor%20keleti%20sz%C3%B6vets%C3%A9g%C3%A9r%C5%91l%20%C3%A9s%20a%20posztkommunista%20jobboldal%20identit%C3%A1sv%C3%A1ls%C3%A1g%C3%A1r%C3%B3l.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/2022.03.15.%20Apu%20az%20orosz-ukr%C3%A1n%20h%C3%A1bor%C3%BAr%C3%B3l%2C%20Orb%C3%A1n%20Viktor%20keleti%20sz%C3%B6vets%C3%A9g%C3%A9r%C5%91l%20%C3%A9s%20a%20posztkommunista%20jobboldal%20identit%C3%A1sv%C3%A1ls%C3%A1g%C3%A1r%C3%B3l.mp3</guid>
-            <pubDate>Fri, 18 Mar 2022 11:32:21 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/Rbsq8P8/apu-1.jpg" />
-        </item> -->
         <item>
             <title>Magára hagyott országunk [ÖM #497]</title>
             <description>Puzsér Róbert, Horváth Oszkár, Tasnádi András, Gödri Bulcsu</description>
@@ -149,7 +173,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Kontraprodukt%C3%ADv%20b%C3%A9k%C3%A9ben%20%C3%A9lni%3F%20%5B%C3%96M%20%23495%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Kontraprodukt%C3%ADv%20b%C3%A9k%C3%A9ben%20%C3%A9lni%3F%20%5B%C3%96M%20%23495%5D.mp3</guid>
             <pubDate>Tue, 15 Mar 2022 18:19:15 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Dicsőséges nagyurak</title>
@@ -179,7 +203,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/A%20kutya%20karmai%20k%C3%B6zt%20(filmaj%C3%A1nl%C3%B3)%20%5B%C3%96M%20%23494%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/A%20kutya%20karmai%20k%C3%B6zt%20(filmaj%C3%A1nl%C3%B3)%20%5B%C3%96M%20%23494%5D.mp3</guid>
             <pubDate>Mon, 14 Mar 2022 18:31:44 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Majka vs Gődény; Megfiatalított egerek</title>
@@ -199,7 +223,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Fizetett%20szekunder%20sz%C3%A9gyen%20%5B%C3%96M%20%23493%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Fizetett%20szekunder%20sz%C3%A9gyen%20%5B%C3%96M%20%23493%5D.mp3</guid>
             <pubDate>Thu, 10 Mar 2022 18:31:42 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Benzinhiány; Digitális vasfüggöny</title>
@@ -219,7 +243,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Veg%C3%A1n%20tejf%C3%B6l%3B%207%20f%C5%91%20drive%20%C3%A9s%206%20alap%20%C3%A9rzelem%20%5B%C3%96M%20%23492%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Veg%C3%A1n%20tejf%C3%B6l%3B%207%20f%C5%91%20drive%20%C3%A9s%206%20alap%20%C3%A9rzelem%20%5B%C3%96M%20%23492%5D.mp3</guid>
             <pubDate>Wed, 09 Mar 2022 18:28:33 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Orosz energia és Zelenszkij beszéde</title>
@@ -239,7 +263,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Any%C3%B3s-Ap%C3%B3s%20probl%C3%A9ma%20%5B%C3%96M%20%23491%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Any%C3%B3s-Ap%C3%B3s%20probl%C3%A9ma%20%5B%C3%96M%20%23491%5D.mp3</guid>
             <pubDate>Tue, 08 Mar 2022 20:23:53 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Már 400 forint egy euro; Feminizmus nőnapon</title>
@@ -259,7 +283,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Kital%C3%A1lt%20l%C3%A9nyek%20%5B%C3%96M%20%23490%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Kital%C3%A1lt%20l%C3%A9nyek%20%5B%C3%96M%20%23490%5D.mp3</guid>
             <pubDate>Mon, 07 Mar 2022 18:31:33 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Véget ér az Éjjel-Nappal Budapest; Sberbank-csőd</title>
@@ -279,7 +303,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Arany%C3%A1s%C3%B3%20f%C3%A9rfiak%20%5B%C3%96M%20%23489%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Arany%C3%A1s%C3%B3%20f%C3%A9rfiak%20%5B%C3%96M%20%23489%5D.mp3</guid>
             <pubDate>Thu, 03 Mar 2022 21:09:08 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Kiberhadviselés</title>
@@ -299,7 +323,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Gy%C3%B3gy%C3%ADt%C3%B3%20humor%20%5B%C3%96M%20%23488%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Gy%C3%B3gy%C3%ADt%C3%B3%20humor%20%5B%C3%96M%20%23488%5D.mp3</guid>
             <pubDate>Wed, 02 Mar 2022 18:38:09 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Putyin taktikát vált; Fegyvert ad Németország Ukrajnának</title>
@@ -319,7 +343,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/A%20Tinder%20Swindler%20%5B%C3%96M%20%23487%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/A%20Tinder%20Swindler%20%5B%C3%96M%20%23487%5D.mp3</guid>
             <pubDate>Tue, 01 Mar 2022 18:45:52 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Tart még a covid járvány?; Ledobja Putyin az atomot?</title>
@@ -339,7 +363,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Mi%20a%20besz%C3%A9lget%C3%A9s%20c%C3%A9lja%3F%20%5B%C3%96M%20%23486%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Mi%20a%20besz%C3%A9lget%C3%A9s%20c%C3%A9lja%3F%20%5B%C3%96M%20%23486%5D.mp3</guid>
             <pubDate>Mon, 28 Feb 2022 18:27:22 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Kijevi lakosok a harckocsik ellen</title>
@@ -359,7 +383,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/%C3%89lm%C3%A9nyek%20magunknak%20vs.%20kifel%C3%A9%20%5B%C3%96M%20%23485%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/%C3%89lm%C3%A9nyek%20magunknak%20vs.%20kifel%C3%A9%20%5B%C3%96M%20%23485%5D.mp3</guid>
             <pubDate>Thu, 24 Feb 2022 18:27:51 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Kitört a háború</title>
@@ -399,7 +423,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Tudom%C3%A1ny-hack%20%5B%C3%96M%20%23484%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Tudom%C3%A1ny-hack%20%5B%C3%96M%20%23484%5D.mp3</guid>
             <pubDate>Tue, 22 Feb 2022 18:28:33 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Visszavont Glamour-díj; Elhibázott lezárások</title>
@@ -419,7 +443,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Szoc-konz-lib-l%C3%A9lek-szellem-test%20%5B%C3%96M%20%23483%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Szoc-konz-lib-l%C3%A9lek-szellem-test%20%5B%C3%96M%20%23483%5D.mp3</guid>
             <pubDate>Mon, 21 Feb 2022 20:30:24 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Popcorn a szemétből; olimpiai bullying</title>
@@ -439,7 +463,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Dress%20code%20%5B%C3%96M%20%23482%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Dress%20code%20%5B%C3%96M%20%23482%5D.mp3</guid>
             <pubDate>Thu, 17 Feb 2022 19:55:51 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Az omikron elhallgatása; kórházi horror</title>
@@ -459,7 +483,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/AI-elit%20%5B%C3%96M%20%23481%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/AI-elit%20%5B%C3%96M%20%23481%5D.mp3</guid>
             <pubDate>Wed, 16 Feb 2022 18:14:46 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>A három alak; Bezárt az USA kijevi nagykövetsége</title>
@@ -479,7 +503,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Hazug%20k%C3%B6zhelyek%20%C3%A9s%20mond%C3%A1sok%20%5B%C3%96M%20%23480%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Hazug%20k%C3%B6zhelyek%20%C3%A9s%20mond%C3%A1sok%20%5B%C3%96M%20%23480%5D.mp3</guid>
             <pubDate>Tue, 15 Feb 2022 20:30:50 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Jeff Bezos luxusjachtja; Paivi Rasanen pere</title>
@@ -499,7 +523,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/L%C3%A9gszomj%20%C3%A9s%20mosoly%20%5B%C3%96M%20%23479%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/L%C3%A9gszomj%20%C3%A9s%20mosoly%20%5B%C3%96M%20%23479%5D.mp3</guid>
             <pubDate>Mon, 14 Feb 2022 19:53:38 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Kíváncsi svéd korcsolyázó; Magdi anyus öröksége</title>
@@ -529,7 +553,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Macron%20feles%C3%A9ge%20f%C3%A9rfi%3F%3B%20kultur%C3%A1lis%20kisaj%C3%A1t%C3%ADt%C3%A1s%20a%20sz%C3%ADnj%C3%A1tsz%C3%A1sban.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Macron%20feles%C3%A9ge%20f%C3%A9rfi%3F%3B%20kultur%C3%A1lis%20kisaj%C3%A1t%C3%ADt%C3%A1s%20a%20sz%C3%ADnj%C3%A1tsz%C3%A1sban.mp3</guid>
             <pubDate>Thu, 03 Feb 2022 19:51:14 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg" />
+            <itunes:image href="https://i.ibb.co/PGCPd2z/puzser-yt-banner-ukr3000.jpg" />
         </item>
         <item>
             <title>Iskolázottsági szintek [ÖM #477]</title>
@@ -539,7 +563,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Iskol%C3%A1zotts%C3%A1gi%20szintek%20%5B%C3%96M%20%23477%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Iskol%C3%A1zotts%C3%A1gi%20szintek%20%5B%C3%96M%20%23477%5D.mp3</guid>
             <pubDate>Wed, 02 Feb 2022 18:59:21 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Valtonyc kiadatása; kínai focisták tetoválásai</title>
@@ -579,7 +603,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/%C3%81tmenet%20int%C3%A9zm%C3%A9nyek%20k%C3%B6z%C3%B6tt%20%5B%C3%96M%20%23475%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/%C3%81tmenet%20int%C3%A9zm%C3%A9nyek%20k%C3%B6z%C3%B6tt%20%5B%C3%96M%20%23475%5D.mp3</guid>
             <pubDate>Mon, 31 Jan 2022 18:17:51 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Liptai Claudia Dubajban; Smollett a bűnös</title>
@@ -609,7 +633,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Oscar%20d%C3%ADjat%20akar%20a%20Disney.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Oscar%20d%C3%ADjat%20akar%20a%20Disney.mp3</guid>
             <pubDate>Thu, 27 Jan 2022 20:04:45 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg" />
+            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
         </item>
         <item>
             <title>Megcsalás AI-vel; jó ízlés [ÖM #473]</title>
@@ -629,7 +653,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Magyar%20Squid%20Game%3B%20saj%C3%A1t%20vagy%20b%C3%A9rlem%C3%A9ny.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Magyar%20Squid%20Game%3B%20saj%C3%A1t%20vagy%20b%C3%A9rlem%C3%A9ny.mp3</guid>
             <pubDate>Wed, 26 Jan 2022 18:32:50 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg" />
+            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
         </item>
         <item>
             <title>Önjutalmazás [ÖM #472]</title>
@@ -639,7 +663,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/%C3%96njutalmaz%C3%A1s%20%5B%C3%96M%20%23472%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/%C3%96njutalmaz%C3%A1s%20%5B%C3%96M%20%23472%5D.mp3</guid>
             <pubDate>Tue, 25 Jan 2022 20:21:51 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>A legnépszerűbb internetes címek; végzetes üzenetek</title>
@@ -829,7 +853,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Petites%20perceptions%20II.%20%5B%C3%96M%20%23468%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Petites%20perceptions%20II.%20%5B%C3%96M%20%23468%5D.mp3</guid>
             <pubDate>Thu, 06 Jan 2022 20:32:36 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Tony Blair ne legyen lovag; Rowling antiszemita?</title>
@@ -839,7 +863,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Tony%20Blair%20ne%20legyen%20lovag%3B%20Rowling%20antiszemita%3F.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Tony%20Blair%20ne%20legyen%20lovag%3B%20Rowling%20antiszemita%3F.mp3</guid>
             <pubDate>Thu, 06 Jan 2022 20:32:36 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/PGCPd2z/puzser-yt-banner-ukr3000.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Még jó, még nem jó, már nem jó [ÖM #467]</title>
@@ -849,7 +873,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/M%C3%A9g%20j%C3%B3%2C%20m%C3%A9g%20nem%20j%C3%B3%2C%20m%C3%A1r%20nem%20j%C3%B3%20%5B%C3%96M%20%23467%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/M%C3%A9g%20j%C3%B3%2C%20m%C3%A9g%20nem%20j%C3%B3%2C%20m%C3%A1r%20nem%20j%C3%B3%20%5B%C3%96M%20%23467%5D.mp3</guid>
             <pubDate>Wed, 05 Jan 2022 19:11:24 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Macron vs oltaltanok; fehér Trónok harca</title>
@@ -859,7 +883,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Macron%20vs%20oltaltanok%3B%20feh%C3%A9r%20Tr%C3%B3nok%20harca.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Macron%20vs%20oltaltanok%3B%20feh%C3%A9r%20Tr%C3%B3nok%20harca.mp3</guid>
             <pubDate>Wed, 05 Jan 2022 19:11:24 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/PGCPd2z/puzser-yt-banner-ukr3000.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Mi a foglalkozásod? [ÖM #466]</title>
@@ -869,7 +893,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Mi%20a%20foglalkoz%C3%A1sod%3F%20%5B%C3%96M%20%23466%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Mi%20a%20foglalkoz%C3%A1sod%3F%20%5B%C3%96M%20%23466%5D.mp3</guid>
             <pubDate>Tue, 04 Jan 2022 21:44:25 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Nyerő Páros ismétlés; Szilágyi Zoltán levele</title>
@@ -879,7 +903,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Nyer%C5%91%20P%C3%A1ros%20ism%C3%A9tl%C3%A9s%3B%20Szil%C3%A1gyi%20Zolt%C3%A1n%20levele.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Nyer%C5%91%20P%C3%A1ros%20ism%C3%A9tl%C3%A9s%3B%20Szil%C3%A1gyi%20Zolt%C3%A1n%20levele.mp3</guid>
             <pubDate>Tue, 04 Jan 2022 21:44:25 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/PGCPd2z/puzser-yt-banner-ukr3000.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Mosogatószivacs; Népdalok [ÖM #465]</title>
@@ -889,7 +913,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Mosogat%C3%B3szivacs%3B%20N%C3%A9pdalok%20%5B%C3%96M%20%23466%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Mosogat%C3%B3szivacs%3B%20N%C3%A9pdalok%20%5B%C3%96M%20%23466%5D.mp3</guid>
             <pubDate>Mon, 03 Jan 2022 22:02:19 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Kóbor végakarata; Szilágyi Liliána</title>
@@ -899,7 +923,7 @@
             <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/K%C3%B3bor%20v%C3%A9gakarata%3B%20Szil%C3%A1gyi%20Lili%C3%A1na%20%5B%C3%96M%20%23465%5D.mp3" type="audio/mpeg" length="1" />
             <guid>https://archive.org/download/puzser_youtube_podcast_2/K%C3%B3bor%20v%C3%A9gakarata%3B%20Szil%C3%A1gyi%20Lili%C3%A1na%20%5B%C3%96M%20%23465%5D.mp3</guid>
             <pubDate>Mon, 03 Jan 2022 22:01:21 +0200</pubDate>
-            <itunes:image href="https://i.ibb.co/MR3t4kX/onkenyes-pod-spirit.jpg" />
+            <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
             <title>Pajor Tamás Puzsér Róberttel beszélget a Rocktérítő+ című rádióműsorban</title>
