@@ -26,7 +26,7 @@
 
         
         <!--XXXXXX-->
-        
+    <!--     
         <item>
             <title>UFO - Napolaj [ÖM #531]</title>
             <description>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</description>
@@ -56,8 +56,8 @@
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Depp%20%C3%A9s%20Amber%20fordulat.mp3</guid>
             <pubDate>Sun, 22 May 2022 21:21:34 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg" />
-        </item>
-        <item>
+        </item> -->
+ <!--        <item>
             <title>CPAC Hungary</title>
             <description>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</description>
             <itunes:summary>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</itunes:summary>
@@ -66,9 +66,9 @@
             <guid>https://archive.org/download/puzser_youtube_podcast_2/CPAC%20Hungary.mp3</guid>
             <pubDate>Sun, 22 May 2022 21:21:34 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg" />
-        </item>
+        </item> -->
           <item>
-            <title>Európai indi ánosdi [ÖM #530]</title>
+            <title>Eu rópai indi ános di [ÖM #530]</title>
             <description>Horváth Oszkár, Tasnádi András, Nyári Gábor</description>
             <itunes:summary>Horváth Oszkár, Tasnádi András, Nyári Gábor</itunes:summary>
             <itunes:subtitle>Horváth Oszkár, Tasnádi András, Nyári Gábor</itunes:subtitle>
