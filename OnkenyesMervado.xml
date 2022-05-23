@@ -27,7 +27,7 @@
         
         <!--XXXXXX-->
         
-        <item>
+        <!-- <item>
             <title>UFO - Napolaj [ÖM #531]</title>
             <description>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</description>
             <itunes:summary>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</itunes:summary>
@@ -67,7 +67,7 @@
             <pubDate>Sun, 22 May 2022 21:21:34 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg" />
         </item>
-       <!--  <item>
+          <item>
             <title>Európai indiánosdi [ÖM #530]</title>
             <description>Horváth Oszkár, Tasnádi András, Nyári Gábor</description>
             <itunes:summary>Horváth Oszkár, Tasnádi András, Nyári Gábor</itunes:summary>
@@ -116,7 +116,7 @@
             <guid>https://archive.org/download/puzser_youtube_podcast_2/B%C3%A1ntalmaz%C3%B3%20tan%C3%ADt%C3%B3n%C5%91.mp3</guid>
             <pubDate>Sat, 21 May 2022 21:09:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg" />
-        </item>
+        </item> -->
         <item>
             <title>Jobbik-botrány</title>
             <description>Horváth Oszkár, Tasnádi András, Csízi Ágnes</description>
@@ -126,8 +126,8 @@
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Jobbik-botr%C3%A1ny.mp3</guid>
             <pubDate>Sat, 21 May 2022 21:09:35 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg" />
-        </item> -->
-        <item>
+        </item> 
+ <!--        <item>
             <title>Szitkomok sikere [ÖM #528]</title>
             <description>Horváth Oszkár, Tasnádi András, Börzsei Dávid</description>
             <itunes:summary>Horváth Oszkár, Tasnádi András, Börzsei Dávid</itunes:summary>
@@ -156,7 +156,7 @@
             <guid>https://archive.org/download/puzser_youtube_podcast_2/Ukr%C3%A1n%20gy%C5%91zelem%20az%20Eurov%C3%ADzi%C3%B3n.mp3</guid>
             <pubDate>Fri, 20 May 2022 21:03:23 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg" />
-        </item>
+        </item> -->
         <item>
             <title>Freak show a tévében [ÖM #527]</title>
             <description>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</description>
