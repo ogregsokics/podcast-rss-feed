@@ -27,7 +27,7 @@
         
         <!--XXXXXX-->
         
-        <!-- <item>
+        <item>
             <title>UFO - Napolaj [ÖM #531]</title>
             <description>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</description>
             <itunes:summary>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</itunes:summary>
@@ -68,35 +68,35 @@
             <itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg" />
         </item>
           <item>
-            <title>Európai indiánosdi [ÖM #530]</title>
+            <title>Európai indi ánosdi [ÖM #530]</title>
             <description>Horváth Oszkár, Tasnádi András, Nyári Gábor</description>
             <itunes:summary>Horváth Oszkár, Tasnádi András, Nyári Gábor</itunes:summary>
             <itunes:subtitle>Horváth Oszkár, Tasnádi András, Nyári Gábor</itunes:subtitle>
-            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Eur%C3%B3pai%20indi%C3%A1nosdi%20%5B%C3%96M%20%23530%5D.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Eur%C3%B3pai%20indi%C3%A1nosdi%20%5B%C3%96M%20%23530%5D.mp3</guid>
+            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/530002.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/puzser_youtube_podcast_2/530002.mp3</guid>
             <pubDate>Sun, 22 May 2022 11:12:13 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
-            <title>Újítana a Netflix</title>
+            <title>Új ítana a Netflix</title>
             <description>Horváth Oszkár, Tasnádi András, Nyári Gábor</description>
             <itunes:summary>Horváth Oszkár, Tasnádi András, Nyári Gábor</itunes:summary>
             <itunes:subtitle>Horváth Oszkár, Tasnádi András, Nyári Gábor</itunes:subtitle>
-            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/%C3%9Aj%C3%ADtana%20a%20Netflix.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/%C3%9Aj%C3%ADtana%20a%20Netflix.mp3</guid>
+            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/530001.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/puzser_youtube_podcast_2/530001.mp3</guid>
             <pubDate>Sun, 22 May 2022 11:12:13 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg" />
         </item>
         <item>
-            <title>Agresszív biztonsági őr</title>
+            <title>Ag resszív biztonsági őr</title>
             <description>Horváth Oszkár, Tasnádi András, Nyári Gábor</description>
             <itunes:summary>Horváth Oszkár, Tasnádi András, Nyári Gábor</itunes:summary>
             <itunes:subtitle>Horváth Oszkár, Tasnádi András, Nyári Gábor</itunes:subtitle>
-            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Agressz%C3%ADv%20biztons%C3%A1gi%20%C5%91r.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Agressz%C3%ADv%20biztons%C3%A1gi%20%C5%91r.mp3</guid>
+            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/530003.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/puzser_youtube_podcast_2/530003.mp3</guid>
             <pubDate>Sun, 22 May 2022 11:12:13 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg" />
-        </item> -->
+        </item>
         <item>
             <title>IQ különb ség egypetéjű ikreknél [ÖM #529]</title>
             <description>Horváth Oszkár, Tasnádi András, Csízi Ágnes</description>
