@@ -26,47 +26,49 @@
 
         
         <!--XXXXXX-->
-    <!--     
+        
         <item>
-            <title>UFO - Napolaj [ÖM #531]</title>
+            <title>UFO - Nap olaj [ÖM #531]</title>
             <description>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</description>
             <itunes:summary>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</itunes:summary>
             <itunes:subtitle>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</itunes:subtitle>
-            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/UFO%20-%20Napolaj%20%5B%C3%96M%20%23531%5D.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/UFO%20-%20Napolaj%20%5B%C3%96M%20%23531%5D.mp3</guid>
+            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/531004.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/puzser_youtube_podcast_2/531004.mp3</guid>
             <pubDate>Sun, 22 May 2022 21:22:06 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
-            <title>Sikert okozó nevek [ÖM #531]</title>
+            <title>Sikert oko zó nevek [ÖM #531]</title>
             <description>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</description>
             <itunes:summary>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</itunes:summary>
             <itunes:subtitle>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</itunes:subtitle>
-            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Sikert%20okoz%C3%B3%20nevek%20%5B%C3%96M%20%23531%5D.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Sikert%20okoz%C3%B3%20nevek%20%5B%C3%96M%20%23531%5D.mp3</guid>
+            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/531003.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/puzser_youtube_podcast_2/531003.mp3</guid>
             <pubDate>Sun, 22 May 2022 21:21:34 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/K5CBJxt/vacation-om.jpg" />
         </item>
         <item>
-            <title>Depp és Amber fordulat</title>
+            <title>Depp és Amber fordu lat</title>
             <description>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</description>
             <itunes:summary>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</itunes:summary>
             <itunes:subtitle>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</itunes:subtitle>
-            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/Depp%20%C3%A9s%20Amber%20fordulat.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/Depp%20%C3%A9s%20Amber%20fordulat.mp3</guid>
+            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/531002.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/puzser_youtube_podcast_2/531002.mp3</guid>
             <pubDate>Sun, 22 May 2022 21:21:34 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg" />
-        </item> -->
- <!--        <item>
-            <title>CPAC Hungary</title>
+        </item>
+
+        <item>
+            <title>C PAC Hungary</title>
             <description>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</description>
             <itunes:summary>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</itunes:summary>
             <itunes:subtitle>Horváth Oszkár, Tasnádi András, Kovács 4 Zoli</itunes:subtitle>
-            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/CPAC%20Hungary.mp3" type="audio/mpeg" length="1" />
-            <guid>https://archive.org/download/puzser_youtube_podcast_2/CPAC%20Hungary.mp3</guid>
+            <enclosure url="https://archive.org/download/puzser_youtube_podcast_2/531001.mp3" type="audio/mpeg" length="1" />
+            <guid>https://archive.org/download/puzser_youtube_podcast_2/531001.mp3</guid>
             <pubDate>Sun, 22 May 2022 21:21:34 +0200</pubDate>
             <itunes:image href="https://i.ibb.co/RvCvBWP/vacation.jpg" />
-        </item> -->
+        </item>
+
           <item>
             <title>Eu rópai indi ános di [ÖM #530]</title>
             <description>Horváth Oszkár, Tasnádi András, Nyári Gábor</description>
